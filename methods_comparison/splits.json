@@ -1,0 +1,3508 @@
+{
+  "train": [
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg00075/imgs/polarization_output/aolp/20251125_114933_d323be2f_seed7_frame1850_aolp.png",
+      "gt_count": 649,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg00075",
+      "frame_id": 1850
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg00075/imgs/polarization_output/aolp/20251125_125758_4957faa5_seed99_frame0850_aolp.png",
+      "gt_count": 286,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg00075",
+      "frame_id": 850
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg00075/imgs/polarization_output/aolp/20251125_132153_910cab67_seed152_frame1500_aolp.png",
+      "gt_count": 491,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg00075",
+      "frame_id": 1500
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg00075/imgs/polarization_output/aolp/20251125_114933_d323be2f_seed7_frame1250_aolp.png",
+      "gt_count": 446,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg00075",
+      "frame_id": 1250
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg00075/imgs/polarization_output/aolp/20251125_125758_4957faa5_seed99_frame0400_aolp.png",
+      "gt_count": 129,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg00075",
+      "frame_id": 400
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg00075/imgs/polarization_output/aolp/20251125_125758_4957faa5_seed99_frame1500_aolp.png",
+      "gt_count": 485,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg00075",
+      "frame_id": 1500
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg00075/imgs/polarization_output/aolp/20251125_114933_d323be2f_seed7_frame0350_aolp.png",
+      "gt_count": 116,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg00075",
+      "frame_id": 350
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg00075/imgs/polarization_output/aolp/20251125_114933_d323be2f_seed7_frame1200_aolp.png",
+      "gt_count": 432,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg00075",
+      "frame_id": 1200
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg00075/imgs/polarization_output/aolp/20251125_121209_5233624b_seed44_frame1300_aolp.png",
+      "gt_count": 420,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg00075",
+      "frame_id": 1300
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg00075/imgs/polarization_output/aolp/20251125_125758_4957faa5_seed99_frame1600_aolp.png",
+      "gt_count": 511,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg00075",
+      "frame_id": 1600
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg00075/imgs/polarization_output/aolp/20251125_121209_5233624b_seed44_frame0600_aolp.png",
+      "gt_count": 192,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg00075",
+      "frame_id": 600
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg00075/imgs/polarization_output/aolp/20251125_123534_f0359b5a_seed70_frame0650_aolp.png",
+      "gt_count": 221,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg00075",
+      "frame_id": 650
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg00075/imgs/polarization_output/aolp/20251125_132153_910cab67_seed152_frame0400_aolp.png",
+      "gt_count": 131,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg00075",
+      "frame_id": 400
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg00075/imgs/polarization_output/aolp/20251125_123534_f0359b5a_seed70_frame1850_aolp.png",
+      "gt_count": 625,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg00075",
+      "frame_id": 1850
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg00075/imgs/polarization_output/aolp/20251125_114933_d323be2f_seed7_frame0450_aolp.png",
+      "gt_count": 156,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg00075",
+      "frame_id": 450
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg00125/imgs/polarization_output/aolp/20251125_130649_c7ebed5f_seed99_frame0450_aolp.png",
+      "gt_count": 180,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg00125",
+      "frame_id": 450
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg00125/imgs/polarization_output/aolp/20251125_124243_f2cffdef_seed70_frame1450_aolp.png",
+      "gt_count": 565,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg00125",
+      "frame_id": 1450
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg00125/imgs/polarization_output/aolp/20251125_121721_f8ca1095_seed44_frame0900_aolp.png",
+      "gt_count": 382,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg00125",
+      "frame_id": 900
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg00125/imgs/polarization_output/aolp/20251125_133153_6aa5f1f2_seed152_frame0850_aolp.png",
+      "gt_count": 360,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg00125",
+      "frame_id": 850
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg00125/imgs/polarization_output/aolp/20251125_121721_f8ca1095_seed44_frame0500_aolp.png",
+      "gt_count": 208,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg00125",
+      "frame_id": 500
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg00125/imgs/polarization_output/aolp/20251125_121721_f8ca1095_seed44_frame0600_aolp.png",
+      "gt_count": 248,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg00125",
+      "frame_id": 600
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg00125/imgs/polarization_output/aolp/20251125_115214_bd1a5e83_seed7_frame1300_aolp.png",
+      "gt_count": 569,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg00125",
+      "frame_id": 1300
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg00125/imgs/polarization_output/aolp/20251125_124243_f2cffdef_seed70_frame0600_aolp.png",
+      "gt_count": 250,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg00125",
+      "frame_id": 600
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg00125/imgs/polarization_output/aolp/20251125_133153_6aa5f1f2_seed152_frame0450_aolp.png",
+      "gt_count": 177,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg00125",
+      "frame_id": 450
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg00125/imgs/polarization_output/aolp/20251125_115214_bd1a5e83_seed7_frame0400_aolp.png",
+      "gt_count": 160,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg00125",
+      "frame_id": 400
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg00125/imgs/polarization_output/aolp/20251125_130649_c7ebed5f_seed99_frame1400_aolp.png",
+      "gt_count": 536,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg00125",
+      "frame_id": 1400
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg00125/imgs/polarization_output/aolp/20251125_124243_f2cffdef_seed70_frame1950_aolp.png",
+      "gt_count": 520,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg00125",
+      "frame_id": 1950
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg00125/imgs/polarization_output/aolp/20251125_124243_f2cffdef_seed70_frame0900_aolp.png",
+      "gt_count": 384,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg00125",
+      "frame_id": 900
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg00125/imgs/polarization_output/aolp/20251125_121721_f8ca1095_seed44_frame1600_aolp.png",
+      "gt_count": 551,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg00125",
+      "frame_id": 1600
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg00125/imgs/polarization_output/aolp/20251125_121721_f8ca1095_seed44_frame1000_aolp.png",
+      "gt_count": 426,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg00125",
+      "frame_id": 1000
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg0025/imgs/polarization_output/aolp/20251125_120835_008ab7fa_seed44_frame1950_aolp.png",
+      "gt_count": 89,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg0025",
+      "frame_id": 1950
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg0025/imgs/polarization_output/aolp/20251125_120835_008ab7fa_seed44_frame1100_aolp.png",
+      "gt_count": 363,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg0025",
+      "frame_id": 1100
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg0025/imgs/polarization_output/aolp/20251125_122952_9fc64d1e_seed70_frame1650_aolp.png",
+      "gt_count": 272,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg0025",
+      "frame_id": 1650
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg0025/imgs/polarization_output/aolp/20251125_125104_a8b35189_seed99_frame0400_aolp.png",
+      "gt_count": 198,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg0025",
+      "frame_id": 400
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg0025/imgs/polarization_output/aolp/20251125_131234_bdd21c9a_seed152_frame0650_aolp.png",
+      "gt_count": 337,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg0025",
+      "frame_id": 650
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg0025/imgs/polarization_output/aolp/20251125_114744_cf63f1ce_seed7_frame1900_aolp.png",
+      "gt_count": 134,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg0025",
+      "frame_id": 1900
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg0025/imgs/polarization_output/aolp/20251125_114744_cf63f1ce_seed7_frame0750_aolp.png",
+      "gt_count": 369,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg0025",
+      "frame_id": 750
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg0025/imgs/polarization_output/aolp/20251125_125104_a8b35189_seed99_frame0500_aolp.png",
+      "gt_count": 264,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg0025",
+      "frame_id": 500
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg0025/imgs/polarization_output/aolp/20251125_114744_cf63f1ce_seed7_frame0950_aolp.png",
+      "gt_count": 377,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg0025",
+      "frame_id": 950
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg0025/imgs/polarization_output/aolp/20251125_131234_bdd21c9a_seed152_frame1850_aolp.png",
+      "gt_count": 152,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg0025",
+      "frame_id": 1850
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg0025/imgs/polarization_output/aolp/20251125_125104_a8b35189_seed99_frame1300_aolp.png",
+      "gt_count": 361,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg0025",
+      "frame_id": 1300
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg0025/imgs/polarization_output/aolp/20251125_131234_bdd21c9a_seed152_frame1950_aolp.png",
+      "gt_count": 96,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg0025",
+      "frame_id": 1950
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg0025/imgs/polarization_output/aolp/20251125_114744_cf63f1ce_seed7_frame1750_aolp.png",
+      "gt_count": 206,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg0025",
+      "frame_id": 1750
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg0025/imgs/polarization_output/aolp/20251125_120835_008ab7fa_seed44_frame0950_aolp.png",
+      "gt_count": 353,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg0025",
+      "frame_id": 950
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg0025/imgs/polarization_output/aolp/20251125_120835_008ab7fa_seed44_frame1000_aolp.png",
+      "gt_count": 364,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg0025",
+      "frame_id": 1000
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg005/imgs/polarization_output/aolp/20251125_114549_943d848a_seed7_frame1300_aolp.png",
+      "gt_count": 192,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg005",
+      "frame_id": 1300
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg005/imgs/polarization_output/aolp/20251125_124052_1401353c_seed99_frame1250_aolp.png",
+      "gt_count": 204,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg005",
+      "frame_id": 1250
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg005/imgs/polarization_output/aolp/20251125_124052_1401353c_seed99_frame1000_aolp.png",
+      "gt_count": 213,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg005",
+      "frame_id": 1000
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg005/imgs/polarization_output/aolp/20251125_114549_943d848a_seed7_frame1050_aolp.png",
+      "gt_count": 220,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg005",
+      "frame_id": 1050
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg005/imgs/polarization_output/aolp/20251125_130032_6cb0da60_seed152_frame1000_aolp.png",
+      "gt_count": 212,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg005",
+      "frame_id": 1000
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg005/imgs/polarization_output/aolp/20251125_120349_c74fbbd2_seed44_frame1900_aolp.png",
+      "gt_count": 0,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg005",
+      "frame_id": 1900
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg005/imgs/polarization_output/aolp/20251125_130032_6cb0da60_seed152_frame0650_aolp.png",
+      "gt_count": 216,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg005",
+      "frame_id": 650
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg005/imgs/polarization_output/aolp/20251125_124052_1401353c_seed99_frame1100_aolp.png",
+      "gt_count": 216,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg005",
+      "frame_id": 1100
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg005/imgs/polarization_output/aolp/20251125_114549_943d848a_seed7_frame0950_aolp.png",
+      "gt_count": 221,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg005",
+      "frame_id": 950
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg005/imgs/polarization_output/aolp/20251125_124052_1401353c_seed99_frame1750_aolp.png",
+      "gt_count": 0,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg005",
+      "frame_id": 1750
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg005/imgs/polarization_output/aolp/20251125_124052_1401353c_seed99_frame1150_aolp.png",
+      "gt_count": 224,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg005",
+      "frame_id": 1150
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg005/imgs/polarization_output/aolp/20251125_114549_943d848a_seed7_frame0550_aolp.png",
+      "gt_count": 229,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg005",
+      "frame_id": 550
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg005/imgs/polarization_output/aolp/20251125_120349_c74fbbd2_seed44_frame0700_aolp.png",
+      "gt_count": 220,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg005",
+      "frame_id": 700
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg005/imgs/polarization_output/aolp/20251125_120349_c74fbbd2_seed44_frame0950_aolp.png",
+      "gt_count": 212,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg005",
+      "frame_id": 950
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg005/imgs/polarization_output/aolp/20251125_122239_fe1d2abf_seed70_frame1500_aolp.png",
+      "gt_count": 77,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg005",
+      "frame_id": 1500
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg00075/imgs/polarization_output/aolp/20251125_125442_d8393e80_seed70_frame0550_aolp.png",
+      "gt_count": 174,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg00075",
+      "frame_id": 550
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg00075/imgs/polarization_output/aolp/20251125_132447_e03e5ecb_seed99_frame1050_aolp.png",
+      "gt_count": 348,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg00075",
+      "frame_id": 1050
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg00075/imgs/polarization_output/aolp/20251125_125442_d8393e80_seed70_frame0800_aolp.png",
+      "gt_count": 271,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg00075",
+      "frame_id": 800
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg00075/imgs/polarization_output/aolp/20251125_115350_a764892c_seed7_frame0550_aolp.png",
+      "gt_count": 186,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg00075",
+      "frame_id": 550
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg00075/imgs/polarization_output/aolp/20251125_122339_f9acdd2b_seed44_frame1550_aolp.png",
+      "gt_count": 516,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg00075",
+      "frame_id": 1550
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg00075/imgs/polarization_output/aolp/20251125_122339_f9acdd2b_seed44_frame1850_aolp.png",
+      "gt_count": 610,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg00075",
+      "frame_id": 1850
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg00075/imgs/polarization_output/aolp/20251125_135521_9be3471c_seed152_frame0450_aolp.png",
+      "gt_count": 147,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg00075",
+      "frame_id": 450
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg00075/imgs/polarization_output/aolp/20251125_122339_f9acdd2b_seed44_frame1600_aolp.png",
+      "gt_count": 532,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg00075",
+      "frame_id": 1600
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg00075/imgs/polarization_output/aolp/20251125_135521_9be3471c_seed152_frame1800_aolp.png",
+      "gt_count": 592,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg00075",
+      "frame_id": 1800
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg00075/imgs/polarization_output/aolp/20251125_122339_f9acdd2b_seed44_frame1150_aolp.png",
+      "gt_count": 381,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg00075",
+      "frame_id": 1150
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg00075/imgs/polarization_output/aolp/20251125_135521_9be3471c_seed152_frame1400_aolp.png",
+      "gt_count": 476,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg00075",
+      "frame_id": 1400
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg00075/imgs/polarization_output/aolp/20251125_135521_9be3471c_seed152_frame0350_aolp.png",
+      "gt_count": 106,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg00075",
+      "frame_id": 350
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg00075/imgs/polarization_output/aolp/20251125_125442_d8393e80_seed70_frame1500_aolp.png",
+      "gt_count": 513,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg00075",
+      "frame_id": 1500
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg00075/imgs/polarization_output/aolp/20251125_132447_e03e5ecb_seed99_frame1800_aolp.png",
+      "gt_count": 591,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg00075",
+      "frame_id": 1800
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg00075/imgs/polarization_output/aolp/20251125_135521_9be3471c_seed152_frame0400_aolp.png",
+      "gt_count": 131,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg00075",
+      "frame_id": 400
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg00125/imgs/polarization_output/aolp/20251125_132259_007aa9d4_seed152_frame1200_aolp.png",
+      "gt_count": 502,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg00125",
+      "frame_id": 1200
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg00125/imgs/polarization_output/aolp/20251125_123631_e640cd9e_seed70_frame1300_aolp.png",
+      "gt_count": 556,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg00125",
+      "frame_id": 1300
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg00125/imgs/polarization_output/aolp/20251125_114915_03aeff5f_seed7_frame1550_aolp.png",
+      "gt_count": 600,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg00125",
+      "frame_id": 1550
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg00125/imgs/polarization_output/aolp/20251125_125932_f9ac6659_seed99_frame0450_aolp.png",
+      "gt_count": 183,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg00125",
+      "frame_id": 450
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg00125/imgs/polarization_output/aolp/20251125_125932_f9ac6659_seed99_frame0650_aolp.png",
+      "gt_count": 273,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg00125",
+      "frame_id": 650
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg00125/imgs/polarization_output/aolp/20251125_123631_e640cd9e_seed70_frame1900_aolp.png",
+      "gt_count": 581,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg00125",
+      "frame_id": 1900
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg00125/imgs/polarization_output/aolp/20251125_123631_e640cd9e_seed70_frame1800_aolp.png",
+      "gt_count": 573,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg00125",
+      "frame_id": 1800
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg00125/imgs/polarization_output/aolp/20251125_121244_6c829f9b_seed44_frame1300_aolp.png",
+      "gt_count": 538,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg00125",
+      "frame_id": 1300
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg00125/imgs/polarization_output/aolp/20251125_125932_f9ac6659_seed99_frame1600_aolp.png",
+      "gt_count": 550,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg00125",
+      "frame_id": 1600
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg00125/imgs/polarization_output/aolp/20251125_114915_03aeff5f_seed7_frame1400_aolp.png",
+      "gt_count": 589,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg00125",
+      "frame_id": 1400
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg00125/imgs/polarization_output/aolp/20251125_114915_03aeff5f_seed7_frame0500_aolp.png",
+      "gt_count": 212,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg00125",
+      "frame_id": 500
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg00125/imgs/polarization_output/aolp/20251125_132259_007aa9d4_seed152_frame1100_aolp.png",
+      "gt_count": 461,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg00125",
+      "frame_id": 1100
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg00125/imgs/polarization_output/aolp/20251125_132259_007aa9d4_seed152_frame0400_aolp.png",
+      "gt_count": 152,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg00125",
+      "frame_id": 400
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg00125/imgs/polarization_output/aolp/20251125_132259_007aa9d4_seed152_frame1900_aolp.png",
+      "gt_count": 557,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg00125",
+      "frame_id": 1900
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg00125/imgs/polarization_output/aolp/20251125_125932_f9ac6659_seed99_frame0400_aolp.png",
+      "gt_count": 160,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg00125",
+      "frame_id": 400
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg0025/imgs/polarization_output/aolp/20251125_114826_2e896790_seed7_frame0600_aolp.png",
+      "gt_count": 332,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg0025",
+      "frame_id": 600
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg0025/imgs/polarization_output/aolp/20251125_123246_e8e83c7e_seed70_frame0800_aolp.png",
+      "gt_count": 380,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg0025",
+      "frame_id": 800
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg0025/imgs/polarization_output/aolp/20251125_123246_e8e83c7e_seed70_frame1450_aolp.png",
+      "gt_count": 371,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg0025",
+      "frame_id": 1450
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg0025/imgs/polarization_output/aolp/20251125_121018_f70f8b86_seed44_frame0950_aolp.png",
+      "gt_count": 354,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg0025",
+      "frame_id": 950
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg0025/imgs/polarization_output/aolp/20251125_121018_f70f8b86_seed44_frame0700_aolp.png",
+      "gt_count": 340,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg0025",
+      "frame_id": 700
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg0025/imgs/polarization_output/aolp/20251125_123246_e8e83c7e_seed70_frame0950_aolp.png",
+      "gt_count": 387,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg0025",
+      "frame_id": 950
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg0025/imgs/polarization_output/aolp/20251125_121018_f70f8b86_seed44_frame1450_aolp.png",
+      "gt_count": 367,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg0025",
+      "frame_id": 1450
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg0025/imgs/polarization_output/aolp/20251125_121018_f70f8b86_seed44_frame1250_aolp.png",
+      "gt_count": 367,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg0025",
+      "frame_id": 1250
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg0025/imgs/polarization_output/aolp/20251125_131615_7ea4b63c_seed152_frame1900_aolp.png",
+      "gt_count": 324,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg0025",
+      "frame_id": 1900
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg0025/imgs/polarization_output/aolp/20251125_131615_7ea4b63c_seed152_frame1500_aolp.png",
+      "gt_count": 351,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg0025",
+      "frame_id": 1500
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg0025/imgs/polarization_output/aolp/20251125_125429_bdc0a6c0_seed99_frame1800_aolp.png",
+      "gt_count": 333,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg0025",
+      "frame_id": 1800
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg0025/imgs/polarization_output/aolp/20251125_123246_e8e83c7e_seed70_frame1400_aolp.png",
+      "gt_count": 371,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg0025",
+      "frame_id": 1400
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg0025/imgs/polarization_output/aolp/20251125_114826_2e896790_seed7_frame1600_aolp.png",
+      "gt_count": 354,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg0025",
+      "frame_id": 1600
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg0025/imgs/polarization_output/aolp/20251125_125429_bdc0a6c0_seed99_frame1550_aolp.png",
+      "gt_count": 362,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg0025",
+      "frame_id": 1550
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg0025/imgs/polarization_output/aolp/20251125_125429_bdc0a6c0_seed99_frame1750_aolp.png",
+      "gt_count": 343,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg0025",
+      "frame_id": 1750
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg005/imgs/polarization_output/aolp/20251125_124502_f46a15f6_seed99_frame1900_aolp.png",
+      "gt_count": 0,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg005",
+      "frame_id": 1900
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg005/imgs/polarization_output/aolp/20251125_130438_660872c7_seed152_frame1750_aolp.png",
+      "gt_count": 0,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg005",
+      "frame_id": 1750
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg005/imgs/polarization_output/aolp/20251125_120535_b8eac56d_seed44_frame0350_aolp.png",
+      "gt_count": 181,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg005",
+      "frame_id": 350
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg005/imgs/polarization_output/aolp/20251125_114605_bd78d023_seed7_frame1650_aolp.png",
+      "gt_count": 15,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg005",
+      "frame_id": 1650
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg005/imgs/polarization_output/aolp/20251125_122520_748ea4ad_seed70_frame0450_aolp.png",
+      "gt_count": 216,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg005",
+      "frame_id": 450
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg005/imgs/polarization_output/aolp/20251125_120535_b8eac56d_seed44_frame1550_aolp.png",
+      "gt_count": 77,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg005",
+      "frame_id": 1550
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg005/imgs/polarization_output/aolp/20251125_130438_660872c7_seed152_frame1250_aolp.png",
+      "gt_count": 216,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg005",
+      "frame_id": 1250
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg005/imgs/polarization_output/aolp/20251125_124502_f46a15f6_seed99_frame1200_aolp.png",
+      "gt_count": 221,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg005",
+      "frame_id": 1200
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg005/imgs/polarization_output/aolp/20251125_124502_f46a15f6_seed99_frame1650_aolp.png",
+      "gt_count": 22,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg005",
+      "frame_id": 1650
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg005/imgs/polarization_output/aolp/20251125_124502_f46a15f6_seed99_frame0450_aolp.png",
+      "gt_count": 220,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg005",
+      "frame_id": 450
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg005/imgs/polarization_output/aolp/20251125_130438_660872c7_seed152_frame0800_aolp.png",
+      "gt_count": 210,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg005",
+      "frame_id": 800
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg005/imgs/polarization_output/aolp/20251125_130438_660872c7_seed152_frame1300_aolp.png",
+      "gt_count": 211,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg005",
+      "frame_id": 1300
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg005/imgs/polarization_output/aolp/20251125_124502_f46a15f6_seed99_frame1800_aolp.png",
+      "gt_count": 0,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg005",
+      "frame_id": 1800
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg005/imgs/polarization_output/aolp/20251125_130438_660872c7_seed152_frame1950_aolp.png",
+      "gt_count": 0,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg005",
+      "frame_id": 1950
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg005/imgs/polarization_output/aolp/20251125_122520_748ea4ad_seed70_frame1150_aolp.png",
+      "gt_count": 224,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg005",
+      "frame_id": 1150
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg00075/imgs/polarization_output/aolp/20251125_122528_c9f9f6d6_seed44_frame1850_aolp.png",
+      "gt_count": 606,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg00075",
+      "frame_id": 1850
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg00075/imgs/polarization_output/aolp/20251125_122528_c9f9f6d6_seed44_frame1150_aolp.png",
+      "gt_count": 381,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg00075",
+      "frame_id": 1150
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg00075/imgs/polarization_output/aolp/20251125_125634_bb1b6c2c_seed70_frame0450_aolp.png",
+      "gt_count": 145,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg00075",
+      "frame_id": 450
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg00075/imgs/polarization_output/aolp/20251125_132606_eac1bbe8_seed99_frame1450_aolp.png",
+      "gt_count": 471,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg00075",
+      "frame_id": 1450
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg00075/imgs/polarization_output/aolp/20251125_125634_bb1b6c2c_seed70_frame1550_aolp.png",
+      "gt_count": 535,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg00075",
+      "frame_id": 1550
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg00075/imgs/polarization_output/aolp/20251125_122528_c9f9f6d6_seed44_frame0400_aolp.png",
+      "gt_count": 125,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg00075",
+      "frame_id": 400
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg00075/imgs/polarization_output/aolp/20251125_125634_bb1b6c2c_seed70_frame1800_aolp.png",
+      "gt_count": 614,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg00075",
+      "frame_id": 1800
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg00075/imgs/polarization_output/aolp/20251125_132606_eac1bbe8_seed99_frame1500_aolp.png",
+      "gt_count": 493,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg00075",
+      "frame_id": 1500
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg00075/imgs/polarization_output/aolp/20251125_132606_eac1bbe8_seed99_frame0550_aolp.png",
+      "gt_count": 183,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg00075",
+      "frame_id": 550
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg00075/imgs/polarization_output/aolp/20251125_135614_8519f914_seed152_frame0800_aolp.png",
+      "gt_count": 258,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg00075",
+      "frame_id": 800
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg00075/imgs/polarization_output/aolp/20251125_132606_eac1bbe8_seed99_frame1850_aolp.png",
+      "gt_count": 610,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg00075",
+      "frame_id": 1850
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg00075/imgs/polarization_output/aolp/20251125_132606_eac1bbe8_seed99_frame1700_aolp.png",
+      "gt_count": 568,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg00075",
+      "frame_id": 1700
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg00075/imgs/polarization_output/aolp/20251125_135614_8519f914_seed152_frame1650_aolp.png",
+      "gt_count": 550,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg00075",
+      "frame_id": 1650
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg00075/imgs/polarization_output/aolp/20251125_135614_8519f914_seed152_frame1000_aolp.png",
+      "gt_count": 328,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg00075",
+      "frame_id": 1000
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg00075/imgs/polarization_output/aolp/20251125_125634_bb1b6c2c_seed70_frame0750_aolp.png",
+      "gt_count": 254,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg00075",
+      "frame_id": 750
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg00125/imgs/polarization_output/aolp/20251125_132034_51ecfc67_seed99_frame1300_aolp.png",
+      "gt_count": 519,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg00125",
+      "frame_id": 1300
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg00125/imgs/polarization_output/aolp/20251125_122254_7bab228f_seed44_frame1750_aolp.png",
+      "gt_count": 563,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg00125",
+      "frame_id": 1750
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg00125/imgs/polarization_output/aolp/20251125_132034_51ecfc67_seed99_frame1150_aolp.png",
+      "gt_count": 472,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg00125",
+      "frame_id": 1150
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg00125/imgs/polarization_output/aolp/20251125_115412_2e9aba14_seed7_frame1550_aolp.png",
+      "gt_count": 596,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg00125",
+      "frame_id": 1550
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg00125/imgs/polarization_output/aolp/20251125_125221_fefd8758_seed70_frame1600_aolp.png",
+      "gt_count": 591,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg00125",
+      "frame_id": 1600
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg00125/imgs/polarization_output/aolp/20251125_115412_2e9aba14_seed7_frame1900_aolp.png",
+      "gt_count": 580,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg00125",
+      "frame_id": 1900
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg00125/imgs/polarization_output/aolp/20251125_115412_2e9aba14_seed7_frame0500_aolp.png",
+      "gt_count": 203,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg00125",
+      "frame_id": 500
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg00125/imgs/polarization_output/aolp/20251125_122254_7bab228f_seed44_frame1650_aolp.png",
+      "gt_count": 564,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg00125",
+      "frame_id": 1650
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg00125/imgs/polarization_output/aolp/20251125_132034_51ecfc67_seed99_frame0600_aolp.png",
+      "gt_count": 247,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg00125",
+      "frame_id": 600
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg00125/imgs/polarization_output/aolp/20251125_122254_7bab228f_seed44_frame0350_aolp.png",
+      "gt_count": 140,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg00125",
+      "frame_id": 350
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg00125/imgs/polarization_output/aolp/20251125_134856_9b0be4e6_seed152_frame1200_aolp.png",
+      "gt_count": 507,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg00125",
+      "frame_id": 1200
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg00125/imgs/polarization_output/aolp/20251125_115412_2e9aba14_seed7_frame1850_aolp.png",
+      "gt_count": 586,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg00125",
+      "frame_id": 1850
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg00125/imgs/polarization_output/aolp/20251125_122254_7bab228f_seed44_frame0950_aolp.png",
+      "gt_count": 399,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg00125",
+      "frame_id": 950
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg00125/imgs/polarization_output/aolp/20251125_115412_2e9aba14_seed7_frame0800_aolp.png",
+      "gt_count": 357,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg00125",
+      "frame_id": 800
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg00125/imgs/polarization_output/aolp/20251125_125221_fefd8758_seed70_frame1450_aolp.png",
+      "gt_count": 574,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg00125",
+      "frame_id": 1450
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg0025/imgs/polarization_output/aolp/20251125_121757_8e2d4226_seed44_frame1250_aolp.png",
+      "gt_count": 370,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg0025",
+      "frame_id": 1250
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg0025/imgs/polarization_output/aolp/20251125_121757_8e2d4226_seed44_frame1450_aolp.png",
+      "gt_count": 371,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg0025",
+      "frame_id": 1450
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg0025/imgs/polarization_output/aolp/20251125_124505_26982073_seed70_frame0500_aolp.png",
+      "gt_count": 259,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg0025",
+      "frame_id": 500
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg0025/imgs/polarization_output/aolp/20251125_133816_1215b4c0_seed152_frame0550_aolp.png",
+      "gt_count": 272,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg0025",
+      "frame_id": 550
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg0025/imgs/polarization_output/aolp/20251125_121757_8e2d4226_seed44_frame0450_aolp.png",
+      "gt_count": 215,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg0025",
+      "frame_id": 450
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg0025/imgs/polarization_output/aolp/20251125_124505_26982073_seed70_frame1200_aolp.png",
+      "gt_count": 366,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg0025",
+      "frame_id": 1200
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg0025/imgs/polarization_output/aolp/20251125_133816_1215b4c0_seed152_frame1250_aolp.png",
+      "gt_count": 358,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg0025",
+      "frame_id": 1250
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg0025/imgs/polarization_output/aolp/20251125_115145_feef247c_seed7_frame1100_aolp.png",
+      "gt_count": 380,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg0025",
+      "frame_id": 1100
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg0025/imgs/polarization_output/aolp/20251125_115145_feef247c_seed7_frame1600_aolp.png",
+      "gt_count": 359,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg0025",
+      "frame_id": 1600
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg0025/imgs/polarization_output/aolp/20251125_115145_feef247c_seed7_frame1850_aolp.png",
+      "gt_count": 366,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg0025",
+      "frame_id": 1850
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg0025/imgs/polarization_output/aolp/20251125_133816_1215b4c0_seed152_frame1300_aolp.png",
+      "gt_count": 357,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg0025",
+      "frame_id": 1300
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg0025/imgs/polarization_output/aolp/20251125_131124_b54129d1_seed99_frame0350_aolp.png",
+      "gt_count": 165,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg0025",
+      "frame_id": 350
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg0025/imgs/polarization_output/aolp/20251125_115145_feef247c_seed7_frame1700_aolp.png",
+      "gt_count": 354,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg0025",
+      "frame_id": 1700
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg0025/imgs/polarization_output/aolp/20251125_115145_feef247c_seed7_frame1800_aolp.png",
+      "gt_count": 364,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg0025",
+      "frame_id": 1800
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg0025/imgs/polarization_output/aolp/20251125_124505_26982073_seed70_frame0800_aolp.png",
+      "gt_count": 369,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg0025",
+      "frame_id": 800
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg005/imgs/polarization_output/aolp/20251125_114830_8c4a4727_seed7_frame0600_aolp.png",
+      "gt_count": 224,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg005",
+      "frame_id": 600
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg005/imgs/polarization_output/aolp/20251125_114830_8c4a4727_seed7_frame1750_aolp.png",
+      "gt_count": 0,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg005",
+      "frame_id": 1750
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg005/imgs/polarization_output/aolp/20251125_125818_e3f0c04d_seed99_frame1200_aolp.png",
+      "gt_count": 216,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg005",
+      "frame_id": 1200
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg005/imgs/polarization_output/aolp/20251125_123458_82d4a86b_seed70_frame0350_aolp.png",
+      "gt_count": 194,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg005",
+      "frame_id": 350
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg005/imgs/polarization_output/aolp/20251125_132133_4c46d67d_seed152_frame0900_aolp.png",
+      "gt_count": 202,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg005",
+      "frame_id": 900
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg005/imgs/polarization_output/aolp/20251125_132133_4c46d67d_seed152_frame0850_aolp.png",
+      "gt_count": 200,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg005",
+      "frame_id": 850
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg005/imgs/polarization_output/aolp/20251125_132133_4c46d67d_seed152_frame1900_aolp.png",
+      "gt_count": 0,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg005",
+      "frame_id": 1900
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg005/imgs/polarization_output/aolp/20251125_132133_4c46d67d_seed152_frame1250_aolp.png",
+      "gt_count": 210,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg005",
+      "frame_id": 1250
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg005/imgs/polarization_output/aolp/20251125_132133_4c46d67d_seed152_frame1750_aolp.png",
+      "gt_count": 0,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg005",
+      "frame_id": 1750
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg005/imgs/polarization_output/aolp/20251125_125818_e3f0c04d_seed99_frame1850_aolp.png",
+      "gt_count": 0,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg005",
+      "frame_id": 1850
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg005/imgs/polarization_output/aolp/20251125_121145_41aa894b_seed44_frame1250_aolp.png",
+      "gt_count": 224,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg005",
+      "frame_id": 1250
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg005/imgs/polarization_output/aolp/20251125_125818_e3f0c04d_seed99_frame1450_aolp.png",
+      "gt_count": 141,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg005",
+      "frame_id": 1450
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg005/imgs/polarization_output/aolp/20251125_114830_8c4a4727_seed7_frame0950_aolp.png",
+      "gt_count": 228,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg005",
+      "frame_id": 950
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg005/imgs/polarization_output/aolp/20251125_123458_82d4a86b_seed70_frame1650_aolp.png",
+      "gt_count": 17,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg005",
+      "frame_id": 1650
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg005/imgs/polarization_output/aolp/20251125_132133_4c46d67d_seed152_frame1800_aolp.png",
+      "gt_count": 0,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg005",
+      "frame_id": 1800
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg00075/imgs/polarization_output/aolp/20251125_134758_e466685a_seed70_frame1300_aolp.png",
+      "gt_count": 446,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg00075",
+      "frame_id": 1300
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg00075/imgs/polarization_output/aolp/20251125_134758_e466685a_seed70_frame0750_aolp.png",
+      "gt_count": 257,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg00075",
+      "frame_id": 750
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg00075/imgs/polarization_output/aolp/20251125_125536_00eed3f4_seed44_frame1250_aolp.png",
+      "gt_count": 412,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg00075",
+      "frame_id": 1250
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg00075/imgs/polarization_output/aolp/20251125_153855_f7184392_seed152_frame1650_aolp.png",
+      "gt_count": 546,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg00075",
+      "frame_id": 1650
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg00075/imgs/polarization_output/aolp/20251125_120814_cdfa9cf5_seed7_frame0450_aolp.png",
+      "gt_count": 148,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg00075",
+      "frame_id": 450
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg00075/imgs/polarization_output/aolp/20251125_134758_e466685a_seed70_frame1250_aolp.png",
+      "gt_count": 431,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg00075",
+      "frame_id": 1250
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg00075/imgs/polarization_output/aolp/20251125_153855_f7184392_seed152_frame1100_aolp.png",
+      "gt_count": 369,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg00075",
+      "frame_id": 1100
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg00075/imgs/polarization_output/aolp/20251125_125536_00eed3f4_seed44_frame0850_aolp.png",
+      "gt_count": 271,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg00075",
+      "frame_id": 850
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg00075/imgs/polarization_output/aolp/20251125_134758_e466685a_seed70_frame1850_aolp.png",
+      "gt_count": 633,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg00075",
+      "frame_id": 1850
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg00075/imgs/polarization_output/aolp/20251125_125536_00eed3f4_seed44_frame1450_aolp.png",
+      "gt_count": 475,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg00075",
+      "frame_id": 1450
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg00075/imgs/polarization_output/aolp/20251125_144019_48fea3de_seed99_frame1650_aolp.png",
+      "gt_count": 546,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg00075",
+      "frame_id": 1650
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg00075/imgs/polarization_output/aolp/20251125_120814_cdfa9cf5_seed7_frame1000_aolp.png",
+      "gt_count": 358,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg00075",
+      "frame_id": 1000
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg00075/imgs/polarization_output/aolp/20251125_153855_f7184392_seed152_frame0900_aolp.png",
+      "gt_count": 295,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg00075",
+      "frame_id": 900
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg00075/imgs/polarization_output/aolp/20251125_125536_00eed3f4_seed44_frame1900_aolp.png",
+      "gt_count": 627,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg00075",
+      "frame_id": 1900
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg00075/imgs/polarization_output/aolp/20251125_120814_cdfa9cf5_seed7_frame1250_aolp.png",
+      "gt_count": 447,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg00075",
+      "frame_id": 1250
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg00125/imgs/polarization_output/aolp/20251125_145539_a029e95c_seed152_frame0500_aolp.png",
+      "gt_count": 195,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg00125",
+      "frame_id": 500
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg00125/imgs/polarization_output/aolp/20251125_132908_6c93d168_seed70_frame1850_aolp.png",
+      "gt_count": 594,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg00125",
+      "frame_id": 1850
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg00125/imgs/polarization_output/aolp/20251125_141213_60bf6f74_seed99_frame1900_aolp.png",
+      "gt_count": 558,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg00125",
+      "frame_id": 1900
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg00125/imgs/polarization_output/aolp/20251125_132908_6c93d168_seed70_frame1750_aolp.png",
+      "gt_count": 594,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg00125",
+      "frame_id": 1750
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg00125/imgs/polarization_output/aolp/20251125_120440_295ae871_seed7_frame0600_aolp.png",
+      "gt_count": 267,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg00125",
+      "frame_id": 600
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg00125/imgs/polarization_output/aolp/20251125_132908_6c93d168_seed70_frame1650_aolp.png",
+      "gt_count": 598,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg00125",
+      "frame_id": 1650
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg00125/imgs/polarization_output/aolp/20251125_120440_295ae871_seed7_frame1800_aolp.png",
+      "gt_count": 580,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg00125",
+      "frame_id": 1800
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg00125/imgs/polarization_output/aolp/20251125_120440_295ae871_seed7_frame1450_aolp.png",
+      "gt_count": 597,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg00125",
+      "frame_id": 1450
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg00125/imgs/polarization_output/aolp/20251125_120440_295ae871_seed7_frame1050_aolp.png",
+      "gt_count": 482,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg00125",
+      "frame_id": 1050
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg00125/imgs/polarization_output/aolp/20251125_141213_60bf6f74_seed99_frame1700_aolp.png",
+      "gt_count": 563,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg00125",
+      "frame_id": 1700
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg00125/imgs/polarization_output/aolp/20251125_141213_60bf6f74_seed99_frame0650_aolp.png",
+      "gt_count": 276,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg00125",
+      "frame_id": 650
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg00125/imgs/polarization_output/aolp/20251125_145539_a029e95c_seed152_frame1250_aolp.png",
+      "gt_count": 511,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg00125",
+      "frame_id": 1250
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg00125/imgs/polarization_output/aolp/20251125_132908_6c93d168_seed70_frame0450_aolp.png",
+      "gt_count": 172,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg00125",
+      "frame_id": 450
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg00125/imgs/polarization_output/aolp/20251125_141213_60bf6f74_seed99_frame1400_aolp.png",
+      "gt_count": 562,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg00125",
+      "frame_id": 1400
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg00125/imgs/polarization_output/aolp/20251125_124644_f53ae334_seed44_frame0800_aolp.png",
+      "gt_count": 327,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg00125",
+      "frame_id": 800
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg0025/imgs/polarization_output/aolp/20251125_123915_7a31e63f_seed7_frame1800_aolp.png",
+      "gt_count": 353,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg0025",
+      "frame_id": 1800
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg0025/imgs/polarization_output/aolp/20251125_123915_7a31e63f_seed7_frame1300_aolp.png",
+      "gt_count": 362,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg0025",
+      "frame_id": 1300
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg0025/imgs/polarization_output/aolp/20251125_123915_7a31e63f_seed7_frame1150_aolp.png",
+      "gt_count": 377,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg0025",
+      "frame_id": 1150
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg0025/imgs/polarization_output/aolp/20251125_152304_085a7b65_seed152_frame0700_aolp.png",
+      "gt_count": 354,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg0025",
+      "frame_id": 700
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg0025/imgs/polarization_output/aolp/20251125_152304_085a7b65_seed152_frame0650_aolp.png",
+      "gt_count": 331,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg0025",
+      "frame_id": 650
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg0025/imgs/polarization_output/aolp/20251125_131908_86ccbe0b_seed44_frame1700_aolp.png",
+      "gt_count": 360,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg0025",
+      "frame_id": 1700
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg0025/imgs/polarization_output/aolp/20251125_123915_7a31e63f_seed7_frame0800_aolp.png",
+      "gt_count": 380,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg0025",
+      "frame_id": 800
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg0025/imgs/polarization_output/aolp/20251125_152304_085a7b65_seed152_frame0600_aolp.png",
+      "gt_count": 306,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg0025",
+      "frame_id": 600
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg0025/imgs/polarization_output/aolp/20251125_144224_4ac0f63c_seed99_frame1300_aolp.png",
+      "gt_count": 373,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg0025",
+      "frame_id": 1300
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg0025/imgs/polarization_output/aolp/20251125_140028_f38a4692_seed70_frame0750_aolp.png",
+      "gt_count": 382,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg0025",
+      "frame_id": 750
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg0025/imgs/polarization_output/aolp/20251125_152304_085a7b65_seed152_frame0550_aolp.png",
+      "gt_count": 277,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg0025",
+      "frame_id": 550
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg0025/imgs/polarization_output/aolp/20251125_152304_085a7b65_seed152_frame1500_aolp.png",
+      "gt_count": 367,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg0025",
+      "frame_id": 1500
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg0025/imgs/polarization_output/aolp/20251125_131908_86ccbe0b_seed44_frame1850_aolp.png",
+      "gt_count": 354,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg0025",
+      "frame_id": 1850
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg0025/imgs/polarization_output/aolp/20251125_144224_4ac0f63c_seed99_frame0450_aolp.png",
+      "gt_count": 225,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg0025",
+      "frame_id": 450
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg0025/imgs/polarization_output/aolp/20251125_123915_7a31e63f_seed7_frame0400_aolp.png",
+      "gt_count": 204,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg0025",
+      "frame_id": 400
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg005/imgs/polarization_output/aolp/20251125_134212_cf2c227c_seed44_frame1300_aolp.png",
+      "gt_count": 199,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg005",
+      "frame_id": 1300
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg005/imgs/polarization_output/aolp/20251125_131506_6f996d41_seed7_frame0650_aolp.png",
+      "gt_count": 228,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg005",
+      "frame_id": 650
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg005/imgs/polarization_output/aolp/20251125_150449_cabe7369_seed152_frame1250_aolp.png",
+      "gt_count": 211,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg005",
+      "frame_id": 1250
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg005/imgs/polarization_output/aolp/20251125_134212_cf2c227c_seed44_frame0350_aolp.png",
+      "gt_count": 177,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg005",
+      "frame_id": 350
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg005/imgs/polarization_output/aolp/20251125_150449_cabe7369_seed152_frame1350_aolp.png",
+      "gt_count": 208,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg005",
+      "frame_id": 1350
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg005/imgs/polarization_output/aolp/20251125_141005_f0b67a6b_seed70_frame1750_aolp.png",
+      "gt_count": 0,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg005",
+      "frame_id": 1750
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg005/imgs/polarization_output/aolp/20251125_134212_cf2c227c_seed44_frame1400_aolp.png",
+      "gt_count": 179,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg005",
+      "frame_id": 1400
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg005/imgs/polarization_output/aolp/20251125_143740_b174095f_seed99_frame0600_aolp.png",
+      "gt_count": 195,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg005",
+      "frame_id": 600
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg005/imgs/polarization_output/aolp/20251125_134212_cf2c227c_seed44_frame0600_aolp.png",
+      "gt_count": 206,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg005",
+      "frame_id": 600
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg005/imgs/polarization_output/aolp/20251125_134212_cf2c227c_seed44_frame1100_aolp.png",
+      "gt_count": 223,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg005",
+      "frame_id": 1100
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg005/imgs/polarization_output/aolp/20251125_134212_cf2c227c_seed44_frame0700_aolp.png",
+      "gt_count": 212,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg005",
+      "frame_id": 700
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg005/imgs/polarization_output/aolp/20251125_141005_f0b67a6b_seed70_frame0750_aolp.png",
+      "gt_count": 225,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg005",
+      "frame_id": 750
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg005/imgs/polarization_output/aolp/20251125_131506_6f996d41_seed7_frame0950_aolp.png",
+      "gt_count": 219,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg005",
+      "frame_id": 950
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg005/imgs/polarization_output/aolp/20251125_143740_b174095f_seed99_frame1150_aolp.png",
+      "gt_count": 219,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg005",
+      "frame_id": 1150
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg005/imgs/polarization_output/aolp/20251125_134212_cf2c227c_seed44_frame0950_aolp.png",
+      "gt_count": 210,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg005",
+      "frame_id": 950
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg00075/imgs/polarization_output/aolp/20251125_154336_795adcf2_seed99_frame0950_aolp.png",
+      "gt_count": 319,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg00075",
+      "frame_id": 950
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg00075/imgs/polarization_output/aolp/20251125_154336_795adcf2_seed99_frame1050_aolp.png",
+      "gt_count": 356,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg00075",
+      "frame_id": 1050
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg00075/imgs/polarization_output/aolp/20251125_142110_00d32665_seed44_frame1950_aolp.png",
+      "gt_count": 630,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg00075",
+      "frame_id": 1950
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg00075/imgs/polarization_output/aolp/20251125_162421_3593cd90_seed152_frame1100_aolp.png",
+      "gt_count": 377,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg00075",
+      "frame_id": 1100
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg00075/imgs/polarization_output/aolp/20251125_142110_00d32665_seed44_frame0350_aolp.png",
+      "gt_count": 108,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg00075",
+      "frame_id": 350
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg00075/imgs/polarization_output/aolp/20251125_154336_795adcf2_seed99_frame1750_aolp.png",
+      "gt_count": 592,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg00075",
+      "frame_id": 1750
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg00075/imgs/polarization_output/aolp/20251125_162421_3593cd90_seed152_frame1350_aolp.png",
+      "gt_count": 460,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg00075",
+      "frame_id": 1350
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg00075/imgs/polarization_output/aolp/20251125_162421_3593cd90_seed152_frame1400_aolp.png",
+      "gt_count": 478,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg00075",
+      "frame_id": 1400
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg00075/imgs/polarization_output/aolp/20251125_162421_3593cd90_seed152_frame1650_aolp.png",
+      "gt_count": 557,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg00075",
+      "frame_id": 1650
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg00075/imgs/polarization_output/aolp/20251125_134140_16517bfd_seed7_frame0400_aolp.png",
+      "gt_count": 128,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg00075",
+      "frame_id": 400
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg00075/imgs/polarization_output/aolp/20251125_142110_00d32665_seed44_frame1250_aolp.png",
+      "gt_count": 400,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg00075",
+      "frame_id": 1250
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg00075/imgs/polarization_output/aolp/20251125_150226_e2da98e9_seed70_frame1650_aolp.png",
+      "gt_count": 568,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg00075",
+      "frame_id": 1650
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg00075/imgs/polarization_output/aolp/20251125_150226_e2da98e9_seed70_frame0650_aolp.png",
+      "gt_count": 217,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg00075",
+      "frame_id": 650
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg00075/imgs/polarization_output/aolp/20251125_150226_e2da98e9_seed70_frame0500_aolp.png",
+      "gt_count": 164,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg00075",
+      "frame_id": 500
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg00075/imgs/polarization_output/aolp/20251125_154336_795adcf2_seed99_frame1400_aolp.png",
+      "gt_count": 468,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg00075",
+      "frame_id": 1400
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg00125/imgs/polarization_output/aolp/20251125_134403_99a345e5_seed7_frame1250_aolp.png",
+      "gt_count": 556,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg00125",
+      "frame_id": 1250
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg00125/imgs/polarization_output/aolp/20251125_143327_43c55563_seed44_frame1500_aolp.png",
+      "gt_count": 552,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg00125",
+      "frame_id": 1500
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg00125/imgs/polarization_output/aolp/20251125_134403_99a345e5_seed7_frame1500_aolp.png",
+      "gt_count": 597,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg00125",
+      "frame_id": 1500
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg00125/imgs/polarization_output/aolp/20251125_160504_65e1b3f0_seed99_frame1700_aolp.png",
+      "gt_count": 565,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg00125",
+      "frame_id": 1700
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg00125/imgs/polarization_output/aolp/20251125_152101_a5b962d8_seed70_frame0850_aolp.png",
+      "gt_count": 372,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg00125",
+      "frame_id": 850
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg00125/imgs/polarization_output/aolp/20251125_152101_a5b962d8_seed70_frame1450_aolp.png",
+      "gt_count": 567,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg00125",
+      "frame_id": 1450
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg00125/imgs/polarization_output/aolp/20251125_152101_a5b962d8_seed70_frame1900_aolp.png",
+      "gt_count": 586,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg00125",
+      "frame_id": 1900
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg00125/imgs/polarization_output/aolp/20251125_152101_a5b962d8_seed70_frame1600_aolp.png",
+      "gt_count": 576,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg00125",
+      "frame_id": 1600
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg00125/imgs/polarization_output/aolp/20251125_143327_43c55563_seed44_frame1000_aolp.png",
+      "gt_count": 423,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg00125",
+      "frame_id": 1000
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg00125/imgs/polarization_output/aolp/20251125_143327_43c55563_seed44_frame1550_aolp.png",
+      "gt_count": 555,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg00125",
+      "frame_id": 1550
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg00125/imgs/polarization_output/aolp/20251125_143327_43c55563_seed44_frame0650_aolp.png",
+      "gt_count": 265,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg00125",
+      "frame_id": 650
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg00125/imgs/polarization_output/aolp/20251125_152101_a5b962d8_seed70_frame0500_aolp.png",
+      "gt_count": 202,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg00125",
+      "frame_id": 500
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg00125/imgs/polarization_output/aolp/20251125_134403_99a345e5_seed7_frame0350_aolp.png",
+      "gt_count": 139,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg00125",
+      "frame_id": 350
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg00125/imgs/polarization_output/aolp/20251125_160504_65e1b3f0_seed99_frame1050_aolp.png",
+      "gt_count": 441,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg00125",
+      "frame_id": 1050
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg00125/imgs/polarization_output/aolp/20251125_152101_a5b962d8_seed70_frame1850_aolp.png",
+      "gt_count": 586,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg00125",
+      "frame_id": 1850
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg0025/imgs/polarization_output/aolp/20251125_152147_b4b3c927_seed70_frame1400_aolp.png",
+      "gt_count": 365,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg0025",
+      "frame_id": 1400
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg0025/imgs/polarization_output/aolp/20251125_152147_b4b3c927_seed70_frame1300_aolp.png",
+      "gt_count": 360,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg0025",
+      "frame_id": 1300
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg0025/imgs/polarization_output/aolp/20251125_152147_b4b3c927_seed70_frame0400_aolp.png",
+      "gt_count": 199,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg0025",
+      "frame_id": 400
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg0025/imgs/polarization_output/aolp/20251125_160753_f8b7ef81_seed99_frame1750_aolp.png",
+      "gt_count": 344,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg0025",
+      "frame_id": 1750
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg0025/imgs/polarization_output/aolp/20251125_143328_886b898e_seed44_frame1550_aolp.png",
+      "gt_count": 365,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg0025",
+      "frame_id": 1550
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg0025/imgs/polarization_output/aolp/20251125_152147_b4b3c927_seed70_frame0800_aolp.png",
+      "gt_count": 366,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg0025",
+      "frame_id": 800
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg0025/imgs/polarization_output/aolp/20251125_134759_c5d38a73_seed7_frame0850_aolp.png",
+      "gt_count": 377,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg0025",
+      "frame_id": 850
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg0025/imgs/polarization_output/aolp/20251125_134759_c5d38a73_seed7_frame0950_aolp.png",
+      "gt_count": 373,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg0025",
+      "frame_id": 950
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg0025/imgs/polarization_output/aolp/20251125_165352_4cbf1020_seed152_frame1550_aolp.png",
+      "gt_count": 356,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg0025",
+      "frame_id": 1550
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg0025/imgs/polarization_output/aolp/20251125_134759_c5d38a73_seed7_frame0600_aolp.png",
+      "gt_count": 329,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg0025",
+      "frame_id": 600
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg0025/imgs/polarization_output/aolp/20251125_134759_c5d38a73_seed7_frame1800_aolp.png",
+      "gt_count": 359,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg0025",
+      "frame_id": 1800
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg0025/imgs/polarization_output/aolp/20251125_134759_c5d38a73_seed7_frame0700_aolp.png",
+      "gt_count": 370,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg0025",
+      "frame_id": 700
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg0025/imgs/polarization_output/aolp/20251125_143328_886b898e_seed44_frame1900_aolp.png",
+      "gt_count": 344,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg0025",
+      "frame_id": 1900
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg0025/imgs/polarization_output/aolp/20251125_152147_b4b3c927_seed70_frame0600_aolp.png",
+      "gt_count": 316,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg0025",
+      "frame_id": 600
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg0025/imgs/polarization_output/aolp/20251125_134759_c5d38a73_seed7_frame1350_aolp.png",
+      "gt_count": 359,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg0025",
+      "frame_id": 1350
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg005/imgs/polarization_output/aolp/20251125_145422_d84bf4ee_seed70_frame0500_aolp.png",
+      "gt_count": 218,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg005",
+      "frame_id": 500
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg005/imgs/polarization_output/aolp/20251125_142211_3d5dbecb_seed44_frame1350_aolp.png",
+      "gt_count": 191,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg005",
+      "frame_id": 1350
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg005/imgs/polarization_output/aolp/20251125_155725_18e9cf5a_seed152_frame1000_aolp.png",
+      "gt_count": 211,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg005",
+      "frame_id": 1000
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg005/imgs/polarization_output/aolp/20251125_135023_1f1a18bd_seed7_frame0550_aolp.png",
+      "gt_count": 226,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg005",
+      "frame_id": 550
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg005/imgs/polarization_output/aolp/20251125_135023_1f1a18bd_seed7_frame1150_aolp.png",
+      "gt_count": 214,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg005",
+      "frame_id": 1150
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg005/imgs/polarization_output/aolp/20251125_135023_1f1a18bd_seed7_frame1300_aolp.png",
+      "gt_count": 204,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg005",
+      "frame_id": 1300
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg005/imgs/polarization_output/aolp/20251125_152615_995fdb41_seed99_frame1750_aolp.png",
+      "gt_count": 0,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg005",
+      "frame_id": 1750
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg005/imgs/polarization_output/aolp/20251125_135023_1f1a18bd_seed7_frame0400_aolp.png",
+      "gt_count": 209,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg005",
+      "frame_id": 400
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg005/imgs/polarization_output/aolp/20251125_135023_1f1a18bd_seed7_frame0800_aolp.png",
+      "gt_count": 213,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg005",
+      "frame_id": 800
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg005/imgs/polarization_output/aolp/20251125_135023_1f1a18bd_seed7_frame0700_aolp.png",
+      "gt_count": 224,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg005",
+      "frame_id": 700
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg005/imgs/polarization_output/aolp/20251125_142211_3d5dbecb_seed44_frame1750_aolp.png",
+      "gt_count": 0,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg005",
+      "frame_id": 1750
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg005/imgs/polarization_output/aolp/20251125_145422_d84bf4ee_seed70_frame1800_aolp.png",
+      "gt_count": 0,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg005",
+      "frame_id": 1800
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg005/imgs/polarization_output/aolp/20251125_135023_1f1a18bd_seed7_frame0450_aolp.png",
+      "gt_count": 219,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg005",
+      "frame_id": 450
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg005/imgs/polarization_output/aolp/20251125_155725_18e9cf5a_seed152_frame0650_aolp.png",
+      "gt_count": 214,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg005",
+      "frame_id": 650
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg005/imgs/polarization_output/aolp/20251125_155725_18e9cf5a_seed152_frame0700_aolp.png",
+      "gt_count": 205,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg005",
+      "frame_id": 700
+    }
+  ],
+  "val": [
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg00075/imgs/polarization_output/aolp/20251125_132153_910cab67_seed152_frame0500_aolp.png",
+      "gt_count": 167,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg00075",
+      "frame_id": 500
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg00075/imgs/polarization_output/aolp/20251125_123534_f0359b5a_seed70_frame1500_aolp.png",
+      "gt_count": 505,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg00075",
+      "frame_id": 1500
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg00075/imgs/polarization_output/aolp/20251125_114933_d323be2f_seed7_frame0900_aolp.png",
+      "gt_count": 326,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg00075",
+      "frame_id": 900
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg00075/imgs/polarization_output/aolp/20251125_132153_910cab67_seed152_frame0650_aolp.png",
+      "gt_count": 204,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg00075",
+      "frame_id": 650
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg00075/imgs/polarization_output/aolp/20251125_123534_f0359b5a_seed70_frame0350_aolp.png",
+      "gt_count": 111,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg00075",
+      "frame_id": 350
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg00125/imgs/polarization_output/aolp/20251125_115214_bd1a5e83_seed7_frame0900_aolp.png",
+      "gt_count": 404,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg00125",
+      "frame_id": 900
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg00125/imgs/polarization_output/aolp/20251125_121721_f8ca1095_seed44_frame0350_aolp.png",
+      "gt_count": 142,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg00125",
+      "frame_id": 350
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg00125/imgs/polarization_output/aolp/20251125_133153_6aa5f1f2_seed152_frame1550_aolp.png",
+      "gt_count": 544,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg00125",
+      "frame_id": 1550
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg00125/imgs/polarization_output/aolp/20251125_130649_c7ebed5f_seed99_frame1050_aolp.png",
+      "gt_count": 435,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg00125",
+      "frame_id": 1050
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg00125/imgs/polarization_output/aolp/20251125_121721_f8ca1095_seed44_frame1350_aolp.png",
+      "gt_count": 544,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg00125",
+      "frame_id": 1350
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg0025/imgs/polarization_output/aolp/20251125_122952_9fc64d1e_seed70_frame1950_aolp.png",
+      "gt_count": 103,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg0025",
+      "frame_id": 1950
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg0025/imgs/polarization_output/aolp/20251125_122952_9fc64d1e_seed70_frame1000_aolp.png",
+      "gt_count": 376,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg0025",
+      "frame_id": 1000
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg0025/imgs/polarization_output/aolp/20251125_131234_bdd21c9a_seed152_frame0600_aolp.png",
+      "gt_count": 300,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg0025",
+      "frame_id": 600
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg0025/imgs/polarization_output/aolp/20251125_125104_a8b35189_seed99_frame1500_aolp.png",
+      "gt_count": 338,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg0025",
+      "frame_id": 1500
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg0025/imgs/polarization_output/aolp/20251125_122952_9fc64d1e_seed70_frame0800_aolp.png",
+      "gt_count": 370,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg0025",
+      "frame_id": 800
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg005/imgs/polarization_output/aolp/20251125_130032_6cb0da60_seed152_frame0350_aolp.png",
+      "gt_count": 186,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg005",
+      "frame_id": 350
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg005/imgs/polarization_output/aolp/20251125_120349_c74fbbd2_seed44_frame0400_aolp.png",
+      "gt_count": 189,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg005",
+      "frame_id": 400
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg005/imgs/polarization_output/aolp/20251125_122239_fe1d2abf_seed70_frame1800_aolp.png",
+      "gt_count": 0,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg005",
+      "frame_id": 1800
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg005/imgs/polarization_output/aolp/20251125_122239_fe1d2abf_seed70_frame0500_aolp.png",
+      "gt_count": 221,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg005",
+      "frame_id": 500
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg005/imgs/polarization_output/aolp/20251125_122239_fe1d2abf_seed70_frame0450_aolp.png",
+      "gt_count": 218,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg005",
+      "frame_id": 450
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg00075/imgs/polarization_output/aolp/20251125_135521_9be3471c_seed152_frame1900_aolp.png",
+      "gt_count": 619,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg00075",
+      "frame_id": 1900
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg00075/imgs/polarization_output/aolp/20251125_135521_9be3471c_seed152_frame1000_aolp.png",
+      "gt_count": 345,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg00075",
+      "frame_id": 1000
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg00075/imgs/polarization_output/aolp/20251125_125442_d8393e80_seed70_frame0950_aolp.png",
+      "gt_count": 328,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg00075",
+      "frame_id": 950
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg00075/imgs/polarization_output/aolp/20251125_115350_a764892c_seed7_frame1450_aolp.png",
+      "gt_count": 515,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg00075",
+      "frame_id": 1450
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg00075/imgs/polarization_output/aolp/20251125_135521_9be3471c_seed152_frame1250_aolp.png",
+      "gt_count": 427,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg00075",
+      "frame_id": 1250
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg00125/imgs/polarization_output/aolp/20251125_132259_007aa9d4_seed152_frame1450_aolp.png",
+      "gt_count": 552,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg00125",
+      "frame_id": 1450
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg00125/imgs/polarization_output/aolp/20251125_132259_007aa9d4_seed152_frame0900_aolp.png",
+      "gt_count": 386,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg00125",
+      "frame_id": 900
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg00125/imgs/polarization_output/aolp/20251125_125932_f9ac6659_seed99_frame0600_aolp.png",
+      "gt_count": 252,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg00125",
+      "frame_id": 600
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg00125/imgs/polarization_output/aolp/20251125_121244_6c829f9b_seed44_frame0800_aolp.png",
+      "gt_count": 332,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg00125",
+      "frame_id": 800
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg00125/imgs/polarization_output/aolp/20251125_125932_f9ac6659_seed99_frame1150_aolp.png",
+      "gt_count": 468,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg00125",
+      "frame_id": 1150
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg0025/imgs/polarization_output/aolp/20251125_125429_bdc0a6c0_seed99_frame0400_aolp.png",
+      "gt_count": 197,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg0025",
+      "frame_id": 400
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg0025/imgs/polarization_output/aolp/20251125_123246_e8e83c7e_seed70_frame1650_aolp.png",
+      "gt_count": 366,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg0025",
+      "frame_id": 1650
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg0025/imgs/polarization_output/aolp/20251125_114826_2e896790_seed7_frame1700_aolp.png",
+      "gt_count": 343,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg0025",
+      "frame_id": 1700
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg0025/imgs/polarization_output/aolp/20251125_123246_e8e83c7e_seed70_frame0750_aolp.png",
+      "gt_count": 377,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg0025",
+      "frame_id": 750
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg0025/imgs/polarization_output/aolp/20251125_114826_2e896790_seed7_frame0700_aolp.png",
+      "gt_count": 369,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg0025",
+      "frame_id": 700
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg005/imgs/polarization_output/aolp/20251125_114605_bd78d023_seed7_frame0750_aolp.png",
+      "gt_count": 226,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg005",
+      "frame_id": 750
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg005/imgs/polarization_output/aolp/20251125_122520_748ea4ad_seed70_frame1850_aolp.png",
+      "gt_count": 0,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg005",
+      "frame_id": 1850
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg005/imgs/polarization_output/aolp/20251125_114605_bd78d023_seed7_frame1700_aolp.png",
+      "gt_count": 0,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg005",
+      "frame_id": 1700
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg005/imgs/polarization_output/aolp/20251125_130438_660872c7_seed152_frame1500_aolp.png",
+      "gt_count": 115,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg005",
+      "frame_id": 1500
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg005/imgs/polarization_output/aolp/20251125_130438_660872c7_seed152_frame0750_aolp.png",
+      "gt_count": 209,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg005",
+      "frame_id": 750
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg00075/imgs/polarization_output/aolp/20251125_135614_8519f914_seed152_frame0550_aolp.png",
+      "gt_count": 171,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg00075",
+      "frame_id": 550
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg00075/imgs/polarization_output/aolp/20251125_115524_ba5d1700_seed7_frame1300_aolp.png",
+      "gt_count": 466,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg00075",
+      "frame_id": 1300
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg00075/imgs/polarization_output/aolp/20251125_122528_c9f9f6d6_seed44_frame1200_aolp.png",
+      "gt_count": 398,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg00075",
+      "frame_id": 1200
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg00075/imgs/polarization_output/aolp/20251125_132606_eac1bbe8_seed99_frame0750_aolp.png",
+      "gt_count": 247,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg00075",
+      "frame_id": 750
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg00075/imgs/polarization_output/aolp/20251125_125634_bb1b6c2c_seed70_frame1050_aolp.png",
+      "gt_count": 361,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg00075",
+      "frame_id": 1050
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg00125/imgs/polarization_output/aolp/20251125_125221_fefd8758_seed70_frame1950_aolp.png",
+      "gt_count": 591,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg00125",
+      "frame_id": 1950
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg00125/imgs/polarization_output/aolp/20251125_115412_2e9aba14_seed7_frame1400_aolp.png",
+      "gt_count": 588,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg00125",
+      "frame_id": 1400
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg00125/imgs/polarization_output/aolp/20251125_125221_fefd8758_seed70_frame1050_aolp.png",
+      "gt_count": 453,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg00125",
+      "frame_id": 1050
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg00125/imgs/polarization_output/aolp/20251125_125221_fefd8758_seed70_frame0750_aolp.png",
+      "gt_count": 326,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg00125",
+      "frame_id": 750
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg00125/imgs/polarization_output/aolp/20251125_125221_fefd8758_seed70_frame1150_aolp.png",
+      "gt_count": 495,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg00125",
+      "frame_id": 1150
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg0025/imgs/polarization_output/aolp/20251125_131124_b54129d1_seed99_frame0450_aolp.png",
+      "gt_count": 233,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg0025",
+      "frame_id": 450
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg0025/imgs/polarization_output/aolp/20251125_115145_feef247c_seed7_frame0400_aolp.png",
+      "gt_count": 204,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg0025",
+      "frame_id": 400
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg0025/imgs/polarization_output/aolp/20251125_121757_8e2d4226_seed44_frame1650_aolp.png",
+      "gt_count": 372,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg0025",
+      "frame_id": 1650
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg0025/imgs/polarization_output/aolp/20251125_121757_8e2d4226_seed44_frame0750_aolp.png",
+      "gt_count": 344,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg0025",
+      "frame_id": 750
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg0025/imgs/polarization_output/aolp/20251125_131124_b54129d1_seed99_frame0600_aolp.png",
+      "gt_count": 303,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg0025",
+      "frame_id": 600
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg005/imgs/polarization_output/aolp/20251125_121145_41aa894b_seed44_frame1100_aolp.png",
+      "gt_count": 232,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg005",
+      "frame_id": 1100
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg005/imgs/polarization_output/aolp/20251125_114830_8c4a4727_seed7_frame0500_aolp.png",
+      "gt_count": 229,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg005",
+      "frame_id": 500
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg005/imgs/polarization_output/aolp/20251125_132133_4c46d67d_seed152_frame0600_aolp.png",
+      "gt_count": 218,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg005",
+      "frame_id": 600
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg005/imgs/polarization_output/aolp/20251125_132133_4c46d67d_seed152_frame1650_aolp.png",
+      "gt_count": 16,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg005",
+      "frame_id": 1650
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg005/imgs/polarization_output/aolp/20251125_132133_4c46d67d_seed152_frame1500_aolp.png",
+      "gt_count": 121,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg005",
+      "frame_id": 1500
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg00075/imgs/polarization_output/aolp/20251125_120814_cdfa9cf5_seed7_frame0350_aolp.png",
+      "gt_count": 111,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg00075",
+      "frame_id": 350
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg00075/imgs/polarization_output/aolp/20251125_120814_cdfa9cf5_seed7_frame0650_aolp.png",
+      "gt_count": 227,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg00075",
+      "frame_id": 650
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg00075/imgs/polarization_output/aolp/20251125_120814_cdfa9cf5_seed7_frame1950_aolp.png",
+      "gt_count": 681,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg00075",
+      "frame_id": 1950
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg00075/imgs/polarization_output/aolp/20251125_144019_48fea3de_seed99_frame0600_aolp.png",
+      "gt_count": 209,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg00075",
+      "frame_id": 600
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg00075/imgs/polarization_output/aolp/20251125_125536_00eed3f4_seed44_frame1750_aolp.png",
+      "gt_count": 580,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg00075",
+      "frame_id": 1750
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg00125/imgs/polarization_output/aolp/20251125_124644_f53ae334_seed44_frame0350_aolp.png",
+      "gt_count": 137,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg00125",
+      "frame_id": 350
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg00125/imgs/polarization_output/aolp/20251125_132908_6c93d168_seed70_frame1950_aolp.png",
+      "gt_count": 597,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg00125",
+      "frame_id": 1950
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg00125/imgs/polarization_output/aolp/20251125_132908_6c93d168_seed70_frame0800_aolp.png",
+      "gt_count": 344,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg00125",
+      "frame_id": 800
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg00125/imgs/polarization_output/aolp/20251125_132908_6c93d168_seed70_frame1450_aolp.png",
+      "gt_count": 566,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg00125",
+      "frame_id": 1450
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg00125/imgs/polarization_output/aolp/20251125_145539_a029e95c_seed152_frame1350_aolp.png",
+      "gt_count": 539,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg00125",
+      "frame_id": 1350
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg0025/imgs/polarization_output/aolp/20251125_140028_f38a4692_seed70_frame0650_aolp.png",
+      "gt_count": 344,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg0025",
+      "frame_id": 650
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg0025/imgs/polarization_output/aolp/20251125_123915_7a31e63f_seed7_frame0900_aolp.png",
+      "gt_count": 386,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg0025",
+      "frame_id": 900
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg0025/imgs/polarization_output/aolp/20251125_152304_085a7b65_seed152_frame1000_aolp.png",
+      "gt_count": 354,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg0025",
+      "frame_id": 1000
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg0025/imgs/polarization_output/aolp/20251125_144224_4ac0f63c_seed99_frame1350_aolp.png",
+      "gt_count": 380,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg0025",
+      "frame_id": 1350
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg0025/imgs/polarization_output/aolp/20251125_144224_4ac0f63c_seed99_frame1250_aolp.png",
+      "gt_count": 364,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg0025",
+      "frame_id": 1250
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg005/imgs/polarization_output/aolp/20251125_150449_cabe7369_seed152_frame0700_aolp.png",
+      "gt_count": 211,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg005",
+      "frame_id": 700
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg005/imgs/polarization_output/aolp/20251125_143740_b174095f_seed99_frame0950_aolp.png",
+      "gt_count": 207,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg005",
+      "frame_id": 950
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg005/imgs/polarization_output/aolp/20251125_134212_cf2c227c_seed44_frame1200_aolp.png",
+      "gt_count": 223,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg005",
+      "frame_id": 1200
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg005/imgs/polarization_output/aolp/20251125_150449_cabe7369_seed152_frame1300_aolp.png",
+      "gt_count": 213,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg005",
+      "frame_id": 1300
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg005/imgs/polarization_output/aolp/20251125_143740_b174095f_seed99_frame0650_aolp.png",
+      "gt_count": 199,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg005",
+      "frame_id": 650
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg00075/imgs/polarization_output/aolp/20251125_162421_3593cd90_seed152_frame0500_aolp.png",
+      "gt_count": 165,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg00075",
+      "frame_id": 500
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg00075/imgs/polarization_output/aolp/20251125_154336_795adcf2_seed99_frame0550_aolp.png",
+      "gt_count": 193,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg00075",
+      "frame_id": 550
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg00075/imgs/polarization_output/aolp/20251125_142110_00d32665_seed44_frame0550_aolp.png",
+      "gt_count": 182,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg00075",
+      "frame_id": 550
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg00075/imgs/polarization_output/aolp/20251125_134140_16517bfd_seed7_frame0450_aolp.png",
+      "gt_count": 155,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg00075",
+      "frame_id": 450
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg00075/imgs/polarization_output/aolp/20251125_154336_795adcf2_seed99_frame1150_aolp.png",
+      "gt_count": 386,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg00075",
+      "frame_id": 1150
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg00125/imgs/polarization_output/aolp/20251125_143327_43c55563_seed44_frame0750_aolp.png",
+      "gt_count": 314,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg00125",
+      "frame_id": 750
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg00125/imgs/polarization_output/aolp/20251125_134403_99a345e5_seed7_frame1150_aolp.png",
+      "gt_count": 524,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg00125",
+      "frame_id": 1150
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg00125/imgs/polarization_output/aolp/20251125_152101_a5b962d8_seed70_frame1950_aolp.png",
+      "gt_count": 587,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg00125",
+      "frame_id": 1950
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg00125/imgs/polarization_output/aolp/20251125_143327_43c55563_seed44_frame1800_aolp.png",
+      "gt_count": 558,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg00125",
+      "frame_id": 1800
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg00125/imgs/polarization_output/aolp/20251125_134403_99a345e5_seed7_frame1650_aolp.png",
+      "gt_count": 583,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg00125",
+      "frame_id": 1650
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg0025/imgs/polarization_output/aolp/20251125_143328_886b898e_seed44_frame1950_aolp.png",
+      "gt_count": 342,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg0025",
+      "frame_id": 1950
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg0025/imgs/polarization_output/aolp/20251125_160753_f8b7ef81_seed99_frame1300_aolp.png",
+      "gt_count": 359,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg0025",
+      "frame_id": 1300
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg0025/imgs/polarization_output/aolp/20251125_143328_886b898e_seed44_frame1150_aolp.png",
+      "gt_count": 370,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg0025",
+      "frame_id": 1150
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg0025/imgs/polarization_output/aolp/20251125_152147_b4b3c927_seed70_frame0650_aolp.png",
+      "gt_count": 341,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg0025",
+      "frame_id": 650
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg0025/imgs/polarization_output/aolp/20251125_165352_4cbf1020_seed152_frame1150_aolp.png",
+      "gt_count": 368,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg0025",
+      "frame_id": 1150
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg005/imgs/polarization_output/aolp/20251125_142211_3d5dbecb_seed44_frame0850_aolp.png",
+      "gt_count": 207,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg005",
+      "frame_id": 850
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg005/imgs/polarization_output/aolp/20251125_155725_18e9cf5a_seed152_frame0500_aolp.png",
+      "gt_count": 213,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg005",
+      "frame_id": 500
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg005/imgs/polarization_output/aolp/20251125_145422_d84bf4ee_seed70_frame0650_aolp.png",
+      "gt_count": 216,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg005",
+      "frame_id": 650
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg005/imgs/polarization_output/aolp/20251125_145422_d84bf4ee_seed70_frame1700_aolp.png",
+      "gt_count": 0,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg005",
+      "frame_id": 1700
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg005/imgs/polarization_output/aolp/20251125_155725_18e9cf5a_seed152_frame1300_aolp.png",
+      "gt_count": 203,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg005",
+      "frame_id": 1300
+    }
+  ],
+  "test": [
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg00075/imgs/polarization_output/aolp/20251125_121209_5233624b_seed44_frame1750_aolp.png",
+      "gt_count": 574,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg00075",
+      "frame_id": 1750
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg00075/imgs/polarization_output/aolp/20251125_123534_f0359b5a_seed70_frame1600_aolp.png",
+      "gt_count": 545,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg00075",
+      "frame_id": 1600
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg00075/imgs/polarization_output/aolp/20251125_125758_4957faa5_seed99_frame0950_aolp.png",
+      "gt_count": 317,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg00075",
+      "frame_id": 950
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg00075/imgs/polarization_output/aolp/20251125_121209_5233624b_seed44_frame0800_aolp.png",
+      "gt_count": 252,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg00075",
+      "frame_id": 800
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg00075/imgs/polarization_output/aolp/20251125_132153_910cab67_seed152_frame1050_aolp.png",
+      "gt_count": 363,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg00075",
+      "frame_id": 1050
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg00125/imgs/polarization_output/aolp/20251125_133153_6aa5f1f2_seed152_frame0750_aolp.png",
+      "gt_count": 308,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg00125",
+      "frame_id": 750
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg00125/imgs/polarization_output/aolp/20251125_133153_6aa5f1f2_seed152_frame1600_aolp.png",
+      "gt_count": 543,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg00125",
+      "frame_id": 1600
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg00125/imgs/polarization_output/aolp/20251125_124243_f2cffdef_seed70_frame0750_aolp.png",
+      "gt_count": 319,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg00125",
+      "frame_id": 750
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg00125/imgs/polarization_output/aolp/20251125_130649_c7ebed5f_seed99_frame1550_aolp.png",
+      "gt_count": 539,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg00125",
+      "frame_id": 1550
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg00125/imgs/polarization_output/aolp/20251125_121721_f8ca1095_seed44_frame1150_aolp.png",
+      "gt_count": 487,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg00125",
+      "frame_id": 1150
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg0025/imgs/polarization_output/aolp/20251125_125104_a8b35189_seed99_frame1000_aolp.png",
+      "gt_count": 344,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg0025",
+      "frame_id": 1000
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg0025/imgs/polarization_output/aolp/20251125_114744_cf63f1ce_seed7_frame0500_aolp.png",
+      "gt_count": 278,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg0025",
+      "frame_id": 500
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg0025/imgs/polarization_output/aolp/20251125_120835_008ab7fa_seed44_frame1600_aolp.png",
+      "gt_count": 286,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg0025",
+      "frame_id": 1600
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg0025/imgs/polarization_output/aolp/20251125_120835_008ab7fa_seed44_frame0700_aolp.png",
+      "gt_count": 329,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg0025",
+      "frame_id": 700
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg0025/imgs/polarization_output/aolp/20251125_114744_cf63f1ce_seed7_frame1800_aolp.png",
+      "gt_count": 179,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg0025",
+      "frame_id": 1800
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg005/imgs/polarization_output/aolp/20251125_114549_943d848a_seed7_frame1500_aolp.png",
+      "gt_count": 77,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg005",
+      "frame_id": 1500
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg005/imgs/polarization_output/aolp/20251125_114549_943d848a_seed7_frame0400_aolp.png",
+      "gt_count": 210,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg005",
+      "frame_id": 400
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg005/imgs/polarization_output/aolp/20251125_120349_c74fbbd2_seed44_frame0850_aolp.png",
+      "gt_count": 206,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg005",
+      "frame_id": 850
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg005/imgs/polarization_output/aolp/20251125_122239_fe1d2abf_seed70_frame1600_aolp.png",
+      "gt_count": 20,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg005",
+      "frame_id": 1600
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1000_speedneg005/imgs/polarization_output/aolp/20251125_124052_1401353c_seed99_frame1500_aolp.png",
+      "gt_count": 71,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1000_speedneg005",
+      "frame_id": 1500
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg00075/imgs/polarization_output/aolp/20251125_122339_f9acdd2b_seed44_frame1450_aolp.png",
+      "gt_count": 485,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg00075",
+      "frame_id": 1450
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg00075/imgs/polarization_output/aolp/20251125_122339_f9acdd2b_seed44_frame1800_aolp.png",
+      "gt_count": 591,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg00075",
+      "frame_id": 1800
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg00075/imgs/polarization_output/aolp/20251125_132447_e03e5ecb_seed99_frame1250_aolp.png",
+      "gt_count": 407,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg00075",
+      "frame_id": 1250
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg00075/imgs/polarization_output/aolp/20251125_135521_9be3471c_seed152_frame1950_aolp.png",
+      "gt_count": 633,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg00075",
+      "frame_id": 1950
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg00075/imgs/polarization_output/aolp/20251125_122339_f9acdd2b_seed44_frame1250_aolp.png",
+      "gt_count": 419,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg00075",
+      "frame_id": 1250
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg00125/imgs/polarization_output/aolp/20251125_114915_03aeff5f_seed7_frame1350_aolp.png",
+      "gt_count": 579,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg00125",
+      "frame_id": 1350
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg00125/imgs/polarization_output/aolp/20251125_123631_e640cd9e_seed70_frame1950_aolp.png",
+      "gt_count": 576,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg00125",
+      "frame_id": 1950
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg00125/imgs/polarization_output/aolp/20251125_132259_007aa9d4_seed152_frame1400_aolp.png",
+      "gt_count": 545,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg00125",
+      "frame_id": 1400
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg00125/imgs/polarization_output/aolp/20251125_123631_e640cd9e_seed70_frame1600_aolp.png",
+      "gt_count": 584,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg00125",
+      "frame_id": 1600
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg00125/imgs/polarization_output/aolp/20251125_121244_6c829f9b_seed44_frame0700_aolp.png",
+      "gt_count": 291,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg00125",
+      "frame_id": 700
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg0025/imgs/polarization_output/aolp/20251125_123246_e8e83c7e_seed70_frame1800_aolp.png",
+      "gt_count": 360,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg0025",
+      "frame_id": 1800
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg0025/imgs/polarization_output/aolp/20251125_125429_bdc0a6c0_seed99_frame0750_aolp.png",
+      "gt_count": 332,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg0025",
+      "frame_id": 750
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg0025/imgs/polarization_output/aolp/20251125_121018_f70f8b86_seed44_frame1550_aolp.png",
+      "gt_count": 373,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg0025",
+      "frame_id": 1550
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg0025/imgs/polarization_output/aolp/20251125_121018_f70f8b86_seed44_frame0800_aolp.png",
+      "gt_count": 350,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg0025",
+      "frame_id": 800
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg0025/imgs/polarization_output/aolp/20251125_123246_e8e83c7e_seed70_frame1950_aolp.png",
+      "gt_count": 304,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg0025",
+      "frame_id": 1950
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg005/imgs/polarization_output/aolp/20251125_122520_748ea4ad_seed70_frame1350_aolp.png",
+      "gt_count": 220,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg005",
+      "frame_id": 1350
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg005/imgs/polarization_output/aolp/20251125_120535_b8eac56d_seed44_frame1450_aolp.png",
+      "gt_count": 137,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg005",
+      "frame_id": 1450
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg005/imgs/polarization_output/aolp/20251125_122520_748ea4ad_seed70_frame0550_aolp.png",
+      "gt_count": 224,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg005",
+      "frame_id": 550
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg005/imgs/polarization_output/aolp/20251125_122520_748ea4ad_seed70_frame1750_aolp.png",
+      "gt_count": 0,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg005",
+      "frame_id": 1750
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1250_speedneg005/imgs/polarization_output/aolp/20251125_114605_bd78d023_seed7_frame1900_aolp.png",
+      "gt_count": 0,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1250_speedneg005",
+      "frame_id": 1900
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg00075/imgs/polarization_output/aolp/20251125_135614_8519f914_seed152_frame1100_aolp.png",
+      "gt_count": 373,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg00075",
+      "frame_id": 1100
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg00075/imgs/polarization_output/aolp/20251125_132606_eac1bbe8_seed99_frame0950_aolp.png",
+      "gt_count": 316,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg00075",
+      "frame_id": 950
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg00075/imgs/polarization_output/aolp/20251125_122528_c9f9f6d6_seed44_frame0800_aolp.png",
+      "gt_count": 252,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg00075",
+      "frame_id": 800
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg00075/imgs/polarization_output/aolp/20251125_135614_8519f914_seed152_frame0350_aolp.png",
+      "gt_count": 113,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg00075",
+      "frame_id": 350
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg00075/imgs/polarization_output/aolp/20251125_135614_8519f914_seed152_frame0900_aolp.png",
+      "gt_count": 295,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg00075",
+      "frame_id": 900
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg00125/imgs/polarization_output/aolp/20251125_115412_2e9aba14_seed7_frame0750_aolp.png",
+      "gt_count": 329,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg00125",
+      "frame_id": 750
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg00125/imgs/polarization_output/aolp/20251125_134856_9b0be4e6_seed152_frame0800_aolp.png",
+      "gt_count": 335,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg00125",
+      "frame_id": 800
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg00125/imgs/polarization_output/aolp/20251125_115412_2e9aba14_seed7_frame0900_aolp.png",
+      "gt_count": 399,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg00125",
+      "frame_id": 900
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg00125/imgs/polarization_output/aolp/20251125_122254_7bab228f_seed44_frame1150_aolp.png",
+      "gt_count": 479,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg00125",
+      "frame_id": 1150
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg00125/imgs/polarization_output/aolp/20251125_125221_fefd8758_seed70_frame0550_aolp.png",
+      "gt_count": 226,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg00125",
+      "frame_id": 550
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg0025/imgs/polarization_output/aolp/20251125_133816_1215b4c0_seed152_frame1350_aolp.png",
+      "gt_count": 355,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg0025",
+      "frame_id": 1350
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg0025/imgs/polarization_output/aolp/20251125_115145_feef247c_seed7_frame0350_aolp.png",
+      "gt_count": 174,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg0025",
+      "frame_id": 350
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg0025/imgs/polarization_output/aolp/20251125_115145_feef247c_seed7_frame0500_aolp.png",
+      "gt_count": 273,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg0025",
+      "frame_id": 500
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg0025/imgs/polarization_output/aolp/20251125_131124_b54129d1_seed99_frame0850_aolp.png",
+      "gt_count": 336,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg0025",
+      "frame_id": 850
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg0025/imgs/polarization_output/aolp/20251125_131124_b54129d1_seed99_frame0900_aolp.png",
+      "gt_count": 341,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg0025",
+      "frame_id": 900
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg005/imgs/polarization_output/aolp/20251125_125818_e3f0c04d_seed99_frame1000_aolp.png",
+      "gt_count": 213,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg005",
+      "frame_id": 1000
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg005/imgs/polarization_output/aolp/20251125_125818_e3f0c04d_seed99_frame1350_aolp.png",
+      "gt_count": 213,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg005",
+      "frame_id": 1350
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg005/imgs/polarization_output/aolp/20251125_125818_e3f0c04d_seed99_frame0850_aolp.png",
+      "gt_count": 202,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg005",
+      "frame_id": 850
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg005/imgs/polarization_output/aolp/20251125_121145_41aa894b_seed44_frame1650_aolp.png",
+      "gt_count": 8,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg005",
+      "frame_id": 1650
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1500_speedneg005/imgs/polarization_output/aolp/20251125_132133_4c46d67d_seed152_frame0450_aolp.png",
+      "gt_count": 210,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1500_speedneg005",
+      "frame_id": 450
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg00075/imgs/polarization_output/aolp/20251125_125536_00eed3f4_seed44_frame1600_aolp.png",
+      "gt_count": 520,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg00075",
+      "frame_id": 1600
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg00075/imgs/polarization_output/aolp/20251125_153855_f7184392_seed152_frame1400_aolp.png",
+      "gt_count": 466,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg00075",
+      "frame_id": 1400
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg00075/imgs/polarization_output/aolp/20251125_144019_48fea3de_seed99_frame1450_aolp.png",
+      "gt_count": 469,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg00075",
+      "frame_id": 1450
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg00075/imgs/polarization_output/aolp/20251125_144019_48fea3de_seed99_frame1250_aolp.png",
+      "gt_count": 409,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg00075",
+      "frame_id": 1250
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg00075/imgs/polarization_output/aolp/20251125_153855_f7184392_seed152_frame1700_aolp.png",
+      "gt_count": 566,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg00075",
+      "frame_id": 1700
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg00125/imgs/polarization_output/aolp/20251125_120440_295ae871_seed7_frame0350_aolp.png",
+      "gt_count": 139,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg00125",
+      "frame_id": 350
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg00125/imgs/polarization_output/aolp/20251125_145539_a029e95c_seed152_frame0450_aolp.png",
+      "gt_count": 181,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg00125",
+      "frame_id": 450
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg00125/imgs/polarization_output/aolp/20251125_132908_6c93d168_seed70_frame1050_aolp.png",
+      "gt_count": 455,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg00125",
+      "frame_id": 1050
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg00125/imgs/polarization_output/aolp/20251125_132908_6c93d168_seed70_frame1800_aolp.png",
+      "gt_count": 595,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg00125",
+      "frame_id": 1800
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg00125/imgs/polarization_output/aolp/20251125_124644_f53ae334_seed44_frame0600_aolp.png",
+      "gt_count": 244,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg00125",
+      "frame_id": 600
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg0025/imgs/polarization_output/aolp/20251125_123915_7a31e63f_seed7_frame0450_aolp.png",
+      "gt_count": 243,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg0025",
+      "frame_id": 450
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg0025/imgs/polarization_output/aolp/20251125_144224_4ac0f63c_seed99_frame1750_aolp.png",
+      "gt_count": 362,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg0025",
+      "frame_id": 1750
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg0025/imgs/polarization_output/aolp/20251125_152304_085a7b65_seed152_frame0400_aolp.png",
+      "gt_count": 188,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg0025",
+      "frame_id": 400
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg0025/imgs/polarization_output/aolp/20251125_140028_f38a4692_seed70_frame0550_aolp.png",
+      "gt_count": 292,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg0025",
+      "frame_id": 550
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg0025/imgs/polarization_output/aolp/20251125_140028_f38a4692_seed70_frame1100_aolp.png",
+      "gt_count": 377,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg0025",
+      "frame_id": 1100
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg005/imgs/polarization_output/aolp/20251125_131506_6f996d41_seed7_frame0600_aolp.png",
+      "gt_count": 229,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg005",
+      "frame_id": 600
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg005/imgs/polarization_output/aolp/20251125_143740_b174095f_seed99_frame0900_aolp.png",
+      "gt_count": 209,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg005",
+      "frame_id": 900
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg005/imgs/polarization_output/aolp/20251125_150449_cabe7369_seed152_frame1700_aolp.png",
+      "gt_count": 0,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg005",
+      "frame_id": 1700
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg005/imgs/polarization_output/aolp/20251125_141005_f0b67a6b_seed70_frame1850_aolp.png",
+      "gt_count": 0,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg005",
+      "frame_id": 1850
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips1750_speedneg005/imgs/polarization_output/aolp/20251125_150449_cabe7369_seed152_frame0750_aolp.png",
+      "gt_count": 208,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips1750_speedneg005",
+      "frame_id": 750
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg00075/imgs/polarization_output/aolp/20251125_154336_795adcf2_seed99_frame1850_aolp.png",
+      "gt_count": 631,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg00075",
+      "frame_id": 1850
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg00075/imgs/polarization_output/aolp/20251125_162421_3593cd90_seed152_frame1700_aolp.png",
+      "gt_count": 576,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg00075",
+      "frame_id": 1700
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg00075/imgs/polarization_output/aolp/20251125_142110_00d32665_seed44_frame0750_aolp.png",
+      "gt_count": 238,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg00075",
+      "frame_id": 750
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg00075/imgs/polarization_output/aolp/20251125_150226_e2da98e9_seed70_frame0350_aolp.png",
+      "gt_count": 108,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg00075",
+      "frame_id": 350
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg00075/imgs/polarization_output/aolp/20251125_162421_3593cd90_seed152_frame0350_aolp.png",
+      "gt_count": 113,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg00075",
+      "frame_id": 350
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg00125/imgs/polarization_output/aolp/20251125_160504_65e1b3f0_seed99_frame0400_aolp.png",
+      "gt_count": 161,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg00125",
+      "frame_id": 400
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg00125/imgs/polarization_output/aolp/20251125_165226_fac4ff42_seed152_frame1950_aolp.png",
+      "gt_count": 552,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg00125",
+      "frame_id": 1950
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg00125/imgs/polarization_output/aolp/20251125_165226_fac4ff42_seed152_frame0600_aolp.png",
+      "gt_count": 240,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg00125",
+      "frame_id": 600
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg00125/imgs/polarization_output/aolp/20251125_165226_fac4ff42_seed152_frame0900_aolp.png",
+      "gt_count": 386,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg00125",
+      "frame_id": 900
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg00125/imgs/polarization_output/aolp/20251125_143327_43c55563_seed44_frame1350_aolp.png",
+      "gt_count": 538,
+      "density_regime": "high",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg00125",
+      "frame_id": 1350
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg0025/imgs/polarization_output/aolp/20251125_165352_4cbf1020_seed152_frame1250_aolp.png",
+      "gt_count": 354,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg0025",
+      "frame_id": 1250
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg0025/imgs/polarization_output/aolp/20251125_152147_b4b3c927_seed70_frame1500_aolp.png",
+      "gt_count": 373,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg0025",
+      "frame_id": 1500
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg0025/imgs/polarization_output/aolp/20251125_152147_b4b3c927_seed70_frame0450_aolp.png",
+      "gt_count": 226,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg0025",
+      "frame_id": 450
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg0025/imgs/polarization_output/aolp/20251125_165352_4cbf1020_seed152_frame1900_aolp.png",
+      "gt_count": 374,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg0025",
+      "frame_id": 1900
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg0025/imgs/polarization_output/aolp/20251125_165352_4cbf1020_seed152_frame0750_aolp.png",
+      "gt_count": 350,
+      "density_regime": "medium",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg0025",
+      "frame_id": 750
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg005/imgs/polarization_output/aolp/20251125_142211_3d5dbecb_seed44_frame1100_aolp.png",
+      "gt_count": 219,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg005",
+      "frame_id": 1100
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg005/imgs/polarization_output/aolp/20251125_145422_d84bf4ee_seed70_frame0350_aolp.png",
+      "gt_count": 196,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg005",
+      "frame_id": 350
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg005/imgs/polarization_output/aolp/20251125_152615_995fdb41_seed99_frame0900_aolp.png",
+      "gt_count": 201,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg005",
+      "frame_id": 900
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg005/imgs/polarization_output/aolp/20251125_155725_18e9cf5a_seed152_frame1900_aolp.png",
+      "gt_count": 0,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg005",
+      "frame_id": 1900
+    },
+    {
+      "image_path": "Exp_09/Exp_09_Polarized_OBB_strips2000_speedneg005/imgs/polarization_output/aolp/20251125_142211_3d5dbecb_seed44_frame1850_aolp.png",
+      "gt_count": 0,
+      "density_regime": "low",
+      "run_id": "Exp_09_Polarized_OBB_strips2000_speedneg005",
+      "frame_id": 1850
+    }
+  ]
+}

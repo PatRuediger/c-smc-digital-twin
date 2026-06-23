@@ -1,0 +1,56 @@
+{
+  "_comment": [
+    "config.example.json — template for comp_strip_generator_new",
+    "Copy to config.json and adjust output_paths for your system.",
+    "",
+    "Sections:",
+    "  simulation_run       — batch control: which seeds to run",
+    "  simulation_parameters — strip count, belt speed, spawn timing, total frames",
+    "  density_calculation  — measurement window frames and observation box geometry",
+    "  output_paths         — where renders and the SQLite database are written",
+    "  fixed_parameters     — physical scene constants; only change these if you",
+    "                         redesign the Blender scene geometry"
+  ],
+
+  "simulation_run": {
+    "description": "Short label for this batch run.",
+    "seeds": [42, 99, 123]
+  },
+
+  "simulation_parameters": {
+    "number_of_strips": 200,
+    "belt_speed": -0.01,
+    "spawn_interval": 3,
+    "simulation_frames": 800
+  },
+
+  "density_calculation": {
+    "measurement_frames": [250, 300, 350, 400],
+    "measurement_box_center": [-6.0, 0.0, 0.1],
+    "measurement_box_dims": [15.0, 15.0, 0.2]
+  },
+
+  "output_paths": {
+    "render_output_path": "/path/to/renders",
+    "db_output_path": "/path/to/db"
+  },
+
+  "fixed_parameters": {
+    "_comment": "Scene geometry constants — match the values in the .blend file.",
+    "outlet_y_range": [-6.0, 6.0],
+    "outlet_x_pos": 2.0,
+    "outlet_z_pos": 1.0,
+    "base_plate_dims": [20.0, 20.0],
+    "belt_start_x": 20.0,
+    "belt_stop_delay_frames_factor": 30,
+    "spawn_clearance_radius": 0.8,
+    "spawn_height_offset": 0.1,
+    "storage_x_offset_factor": 0.01,
+    "storage_z_offset_factor": 0.01,
+    "strip_width_range": [0.3, 0.3],
+    "strip_length_range": [1.0, 1.1],
+    "strip_height_range": [0.05, 0.05],
+    "max_rotation_degrees": 5.0,
+    "max_tilt_degrees": 10.0
+  }
+}

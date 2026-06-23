@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Local config (contains machine-specific paths)
+config.json
+config_*.json
+
+# Model weights
+*.pt
+*.pth
+*.onnx
+
+# Rendered output and data
+/Renderings/
+/runs/
+*.db
+
+# Blender backups
+*.blend1
+*.blend@
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+pyrightconfig.json
+
+# Cache and intermediate outputs
+.pytest_cache/
+methods_comparison/cache/
+methods_comparison/checkpoints/
+methods_comparison/csrnet_data/
+methods_comparison/results.csv
+methods_comparison/topology_calibration.json
+methods_comparison/topology_params.json
+methods_comparison/fusion_log.json
+methods_comparison/fusion_norm.json
+methods_comparison/preflight/ttk_pilot_cache/
+methods_comparison/preflight/aolp_histograms.pdf

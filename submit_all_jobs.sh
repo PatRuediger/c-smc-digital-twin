@@ -1,0 +1,21 @@
+#!/bin/bash
+sbatch /home/ruediger/comp_strip_generator/batch_scripts/job_strips1000_speedneg00075.sh
+sbatch /home/ruediger/comp_strip_generator/batch_scripts/job_strips1000_speedneg00125.sh
+sbatch /home/ruediger/comp_strip_generator/batch_scripts/job_strips1000_speedneg0025.sh
+sbatch /home/ruediger/comp_strip_generator/batch_scripts/job_strips1000_speedneg005.sh
+sbatch /home/ruediger/comp_strip_generator/batch_scripts/job_strips1250_speedneg00075.sh
+sbatch /home/ruediger/comp_strip_generator/batch_scripts/job_strips1250_speedneg00125.sh
+sbatch /home/ruediger/comp_strip_generator/batch_scripts/job_strips1250_speedneg0025.sh
+sbatch /home/ruediger/comp_strip_generator/batch_scripts/job_strips1250_speedneg005.sh
+sbatch /home/ruediger/comp_strip_generator/batch_scripts/job_strips1500_speedneg00075.sh
+sbatch /home/ruediger/comp_strip_generator/batch_scripts/job_strips1500_speedneg00125.sh
+sbatch /home/ruediger/comp_strip_generator/batch_scripts/job_strips1500_speedneg0025.sh
+sbatch /home/ruediger/comp_strip_generator/batch_scripts/job_strips1500_speedneg005.sh
+sbatch /home/ruediger/comp_strip_generator/batch_scripts/job_strips1750_speedneg00075.sh
+sbatch /home/ruediger/comp_strip_generator/batch_scripts/job_strips1750_speedneg00125.sh
+sbatch /home/ruediger/comp_strip_generator/batch_scripts/job_strips1750_speedneg0025.sh
+sbatch /home/ruediger/comp_strip_generator/batch_scripts/job_strips1750_speedneg005.sh
+sbatch /home/ruediger/comp_strip_generator/batch_scripts/job_strips2000_speedneg00075.sh
+sbatch /home/ruediger/comp_strip_generator/batch_scripts/job_strips2000_speedneg00125.sh
+sbatch /home/ruediger/comp_strip_generator/batch_scripts/job_strips2000_speedneg0025.sh
+sbatch /home/ruediger/comp_strip_generator/batch_scripts/job_strips2000_speedneg005.sh
