@@ -1,10 +1,10 @@
-# C-SMC Digital Twin: Synthetic Training Data Generation for Strip Deposition
+# C-SMC Synthetic Data Generator for Vision-Based Inline Inspection
 
-A Blender-based physics simulation pipeline that generates synthetic training data for machine learning models in carbon-fiber Sheet Moulding Compound (C-SMC) manufacturing. The pipeline simulates rectangular SMC strips falling from an outlet onto a moving conveyor belt, renders polarization images at four analyzer angles, computes Angle of Linear Polarization (AoLP) composites, and produces fully annotated datasets for object detection and density estimation.
+A process-informed, photorealistic simulation pipeline that generates synthetic training data for machine learning models in carbon-fiber Sheet Moulding Compound (C-SMC) manufacturing. The pipeline simulates rectangular SMC strips falling from an outlet onto a moving conveyor belt, renders polarization images at four analyzer angles, computes Angle of Linear Polarization (AoLP) composites, and produces fully annotated datasets for object detection and density estimation.
 
 ## Paper
 
-> **Digital Twin for Synthetic Training Data Generation in C-SMC Strip Deposition: A Physics-Based Simulation Approach**
+> **A Process-Informed, Photorealistic Synthetic Data Generator for Vision-Based Inline Inspection of C-SMC Strip Deposition**
 >
 > Patrick Flore, Fabian Roeder, Kevin Chen, Andreas Gebhard
 >
@@ -145,8 +145,8 @@ A completed batch run produces:
 If you use this code in your research, please cite:
 
 ```bibtex
-@article{flore2025csmc_digital_twin,
-  title={Digital Twin for Synthetic Training Data Generation in {C-SMC} Strip Deposition: A Physics-Based Simulation Approach},
+@article{flore2025csmc_synth_data,
+  title={A Process-Informed, Photorealistic Synthetic Data Generator for Vision-Based Inline Inspection of {C-SMC} Strip Deposition},
   author={Flore, Patrick and R{\"o}der, Fabian and Chen, Kevin and Gebhard, Andreas},
   journal={Composites Part A: Applied Science and Manufacturing},
   year={2025},
