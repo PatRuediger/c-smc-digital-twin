@@ -10,7 +10,7 @@ A Blender-based physics simulation pipeline that generates synthetic training da
 >
 > *Composites Part A: Applied Science and Manufacturing* -- under review
 >
-> Preprint: [`paper/Composites_AI_2025_paper_as_submitted.pdf`](paper/Composites_AI_2025_paper_as_submitted.pdf)
+> Preprint available on request.
 
 ## Architecture
 
@@ -127,7 +127,6 @@ c-smc-digital-twin/
 |   +-- bootstrap_ci.py             # Bootstrap confidence intervals
 |   +-- real_frames/                # Real production AoLP frames for evaluation
 |   +-- tests/                      # Unit tests
-+-- paper/                          # Manuscript (under review)
 +-- AnnotationPreprocessing.ipynb   # DB output -> YOLO annotation format
 +-- analysis_nb.ipynb               # Post-hoc analysis of simulation results
 ```
