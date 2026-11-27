@@ -5,14 +5,15 @@ PASS: 'vancouver' oder 'numbered' im Template-Body gefunden, oder vorhandene
 WARN: kein klares Signal -> User-Decision (Vancouver/IEEE/author-year).
 FAIL: Template-Datei nicht gefunden.
 """
+import os
 import re
 import sys
 import zipfile
 from pathlib import Path
 
-DOTX = Path(
-    os.environ.get("OUTPUT_ROOT", "./output")
-    "/19_ECCM_Oslo_2026/ECCM22_AbstractID_Fullpaper_Lastname_Firstname.dotx"
+DOTX = (
+    Path(os.environ.get("OUTPUT_ROOT", "./output"))
+    / "19_ECCM_Oslo_2026" / "ECCM22_AbstractID_Fullpaper_Lastname_Firstname.dotx"
 )
 
 

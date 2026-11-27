@@ -18,6 +18,7 @@ FAIL: box dims vary across runs (unexpected) or parse fails.
 
 Writes box_decision.md documenting the world-to-pixel derivation.
 """
+import os
 import ast
 import re
 import sqlite3
