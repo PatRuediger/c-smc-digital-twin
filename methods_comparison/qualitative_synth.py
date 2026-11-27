@@ -16,6 +16,7 @@ Output: 19_ECCM_Oslo_2026/draft/figures/fig4_qualitative.{png,pdf}
 Run with:
     /path/to/ivw_dt_pytorch/bin/python3 -m methods_comparison.qualitative_synth
 """
+import os
 import csv
 import json
 from collections import defaultdict
@@ -33,9 +34,9 @@ from skimage.segmentation import watershed
 
 from methods_comparison.csrnet_infer import CSRNetInfer
 
-FIG_DIR = Path(
-    os.environ.get("OUTPUT_ROOT", "./output/")
-    "19_ECCM_Oslo_2026/draft/figures"
+FIG_DIR = (
+    Path(os.environ.get("OUTPUT_ROOT", "./output"))
+    / "19_ECCM_Oslo_2026" / "draft" / "figures"
 )
 RESULTS = Path("methods_comparison/results.csv")
 SPLITS = Path("methods_comparison/splits.json")
@@ -46,8 +47,8 @@ REGIME_ORDER = ("low", "medium", "high")
 IMAGE_RESOLUTION = 512
 
 
-def _pick_median_per_regime() -> list[dict]:
-    rows = list(csv.DictReader(RESULTS.open()))
+def _pick_median_per_regime(results: Path = RESULTS) -> list[dict]:
+    rows = list(csv.DictReader(results.open()))
     by_regime: dict[str, list[dict]] = defaultdict(list)
     for r in rows:
         by_regime[r["density_regime"]].append(r)
@@ -114,7 +115,7 @@ def _watershed_overlay(arr: np.ndarray, params: dict) -> tuple[np.ndarray, np.nd
 
 def _csrnet_density(image_path: Path, csrnet: CSRNetInfer) -> np.ndarray:
     """Run CSRNet and return the upsampled-to-IMAGE_RESOLUTION density map."""
-    img = csrnet._tx(Image.open(image_path).convert("L")).unsqueeze(0).to(csrnet.device)
+    img = csrnet.preprocess(image_path)
     with torch.no_grad():
         density = csrnet.model(img)
     dmap = density.squeeze().cpu().numpy()
@@ -122,13 +123,13 @@ def _csrnet_density(image_path: Path, csrnet: CSRNetInfer) -> np.ndarray:
     return np.asarray(img_pil)
 
 
-def main() -> None:
-    chosen = _pick_median_per_regime()
+def main(results: Path = RESULTS, fig_dir: Path = FIG_DIR, preproc: str = "train") -> None:
+    chosen = _pick_median_per_regime(results)
     if len(chosen) != 3:
         raise RuntimeError(f"expected 3 regimes, got {len(chosen)}")
 
     wp = json.loads(WATERSHED_PARAMS.read_text())
-    csrnet = CSRNetInfer(CHECKPOINT)
+    csrnet = CSRNetInfer(CHECKPOINT, preproc=preproc)
 
     fig, axes = plt.subplots(3, 4, figsize=(16, 12))
     col_titles = ["Ground truth", "Watershed", "CSRNet density", "Morse-Smale complex"]
@@ -154,7 +155,7 @@ def main() -> None:
         w_count = int(row["watershed_pred"])
         c_count = int(row["csrnet_pred"])
         t_count = int(row["ttk_pred"])
-        f_count = int(row["fusion_pred"])
+        f_count = int(row["fusion_pred"]) if row.get("fusion_pred") else None
         regime = row["density_regime"]
 
         # Col 0: GT centroids on AoLP
@@ -215,7 +216,8 @@ def main() -> None:
         # Row title (left of col 0)
         msc_label = f"M={t_count}" if ttk_raw == 0 else f"M={t_count} (raw {ttk_raw})"
         axes[row_idx, 0].set_ylabel(
-            f"{regime}\nGT={gt}\nW={w_count}  C={c_count}\n{msc_label}\nF={f_count}",
+            f"{regime}\nGT={gt}\nW={w_count}  C={c_count}\n{msc_label}"
+            + (f"\nF={f_count}" if f_count is not None else ""),
             rotation=0, ha="right", va="center", fontsize=13, labelpad=50,
         )
         axes[row_idx, 0].axis("on")
@@ -229,9 +231,9 @@ def main() -> None:
         axes[0, c].set_title(title, fontsize=14, pad=10)
 
     fig.tight_layout()
-    FIG_DIR.mkdir(parents=True, exist_ok=True)
-    out_png = FIG_DIR / "fig4_qualitative.png"
-    out_pdf = FIG_DIR / "fig4_qualitative.pdf"
+    fig_dir.mkdir(parents=True, exist_ok=True)
+    out_png = fig_dir / "fig4_qualitative.png"
+    out_pdf = fig_dir / "fig4_qualitative.pdf"
     fig.savefig(out_png, dpi=300, bbox_inches="tight")
     fig.savefig(out_pdf, bbox_inches="tight")
     plt.close(fig)
@@ -240,4 +242,11 @@ def main() -> None:
 
 
 if __name__ == "__main__":
-    main()
+    import argparse
+
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--results", type=Path, default=RESULTS)
+    ap.add_argument("--outdir", type=Path, default=FIG_DIR)
+    ap.add_argument("--preproc", choices=["train", "legacy"], default="train")
+    a = ap.parse_args()
+    main(a.results, a.outdir, a.preproc)
