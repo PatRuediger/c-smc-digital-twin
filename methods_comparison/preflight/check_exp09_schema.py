@@ -5,6 +5,7 @@ PASS: alle 20 DBs haben dieselbe Tabelle mit denselben Spaltennamen,
 FAIL: Schema divergiert oder erwartete Spalte fehlt -> Plan Task 1.4 muss vor Implementation
       auf gefundene Spaltennamen umgestellt werden.
 """
+import os
 import re
 import sqlite3
 import sys

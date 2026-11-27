@@ -32,6 +32,10 @@ from csrnet.csrnet_model import CSRNet  # noqa: E402
 from methods_comparison._constants import CSRNET_FEATURE_DIM, CSRNET_FEATURE_LAYER  # noqa: E402
 
 
+IMAGENET_MEAN = [0.485, 0.456, 0.406]  # as in csrnet/train_csrnet.py
+IMAGENET_STD = [0.229, 0.224, 0.225]
+
+
 class CSRNetInfer:
     """Load a trained CSRNet checkpoint and run inference.
 
@@ -42,9 +46,17 @@ class CSRNetInfer:
         (``methods_comparison/checkpoints/csrnet_best.pth``).
     device:
         Torch device string. ``None`` (default) auto-picks cuda > mps > cpu.
+    preproc:
+        ``"train"`` (default): exactly the preprocessing of csrnet/train_csrnet.py
+        and csrnet/csrnet_dataset.py: ``convert("RGB")``, ``ToTensor``, ImageNet
+        ``Normalize``, no resize. ``"legacy"``: the pre-2026-11-27 path
+        (grayscale, no Normalize), kept only to reproduce the old numbers. The
+        legacy path compressed the predictions to about 300-380 strips; see
+        CHANGELOG.md.
     """
 
-    def __init__(self, checkpoint_path: Path, device: str | None = None):
+    def __init__(self, checkpoint_path: Path, device: str | None = None,
+                 preproc: str = "train"):
         if device is None:
             if torch.cuda.is_available():
                 device = "cuda"
@@ -63,10 +75,21 @@ class CSRNetInfer:
         )
         self.model.eval()
 
-        self._tx = transforms.Compose([
-            transforms.Grayscale(num_output_channels=3),
-            transforms.ToTensor(),
-        ])
+        if preproc == "train":
+            self._mode = "RGB"
+            self._tx = transforms.Compose([
+                transforms.ToTensor(),
+                transforms.Normalize(mean=IMAGENET_MEAN, std=IMAGENET_STD),
+            ])
+        elif preproc == "legacy":
+            self._mode = "L"
+            self._tx = transforms.Compose([
+                transforms.Grayscale(num_output_channels=3),
+                transforms.ToTensor(),
+            ])
+        else:
+            raise ValueError(f"preproc must be 'train' or 'legacy', not {preproc!r}")
+        self.preproc = preproc
         self._feat: np.ndarray | None = None
 
         hook_attached = False
@@ -88,6 +111,11 @@ class CSRNetInfer:
         else:
             self._feat = out.detach().cpu().numpy()[0]
 
+    def preprocess(self, image_path: Path) -> torch.Tensor:
+        """Image file -> (1, 3, H, W) tensor on the model device."""
+        img = Image.open(image_path).convert(self._mode)
+        return self._tx(img).unsqueeze(0).to(self.device)
+
     @torch.no_grad()
     def predict_count(self, image_path: Path) -> tuple[int, np.ndarray]:
         """Run inference on a single image.
@@ -106,11 +134,7 @@ class CSRNetInfer:
             forward hook on ``CSRNET_FEATURE_LAYER`` (Global-Average-Pool of
             the Conv2d output).
         """
-        img = (
-            self._tx(Image.open(image_path).convert("L"))
-            .unsqueeze(0)
-            .to(self.device)
-        )
+        img = self.preprocess(image_path)
         density = self.model(img)
         count = int(density.sum().round().item())
         assert self._feat is not None, "forward hook did not fire"

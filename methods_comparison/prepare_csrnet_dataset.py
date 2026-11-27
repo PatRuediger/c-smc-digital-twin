@@ -18,6 +18,7 @@ Idempotent: re-running overwrites symlinks + CSVs. Safe to invoke multiple times
 Run with:
     python3 -m methods_comparison.prepare_csrnet_dataset
 """
+import os
 import csv
 import json
 from pathlib import Path

@@ -3,6 +3,7 @@
 Run via:
     pytest methods_comparison/tests/test_topology_ttk.py -v
 """
+import os
 import json
 import subprocess
 from pathlib import Path

@@ -8,6 +8,7 @@ Mode (a): 3 real frames, 3xK-Grid PNG, no quantitative MAE.
 Mode (b): 20-30 real frames with GT annotations, MAE per method, scatter plots.
 """
 
+import os
 import argparse
 import csv
 import json
